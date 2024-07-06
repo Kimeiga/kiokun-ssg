@@ -1,13 +1,14 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import { createGunzip } from 'zlib';
 import JSONStream from 'JSONStream';
 
 // Get the directory of the current module
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 // Define paths relative to the script location
-const INPUT_FILE = path.join(__dirname, 'jmdict-eng-3.5.0.json');
+const INPUT_FILE = path.join(__dirname, 'jmdict-eng-3.5.0.json.gz');
 const OUTPUT_DIR = path.join(__dirname, "..", "dictionary");
 const WRITE_CHUNK_SIZE = 1000; // Number of files to write at once
 
@@ -22,6 +23,7 @@ async function processJMdict() {
     await fs.promises.mkdir(OUTPUT_DIR, { recursive: true });
 
     const stream = fs.createReadStream(INPUT_FILE)
+        .pipe(createGunzip())
         .pipe(JSONStream.parse('words.*'));
 
     await new Promise((resolve, reject) => {
