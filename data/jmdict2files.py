@@ -1,18 +1,26 @@
 import json
 import os
-from collections import defaultdict
+import gzip
 import sys
+from collections import defaultdict
+from pathlib import Path
 
-# Output directory relative to the script location
-output_dir = "../dictionary"
+# Get the directory of the script
+script_dir = Path(__file__).resolve().parent
 
-print("Reading JMdict file...")
-with open("jmdict-eng-3.5.0.json", 'r', encoding='utf-8') as f:
-    jmdict = json.load(f)
+# Input and output paths relative to the script location
+input_file = script_dir / "jmdict-eng-3.5.0.json.gz"
+output_dir = script_dir.parent / "dictionary"
+
+print(f"Reading JMdict file from: {input_file}")
+print(f"Output directory: {output_dir}")
 
 data = defaultdict(list)
 
 print("Processing entries...")
+with gzip.open(input_file, 'rt', encoding='utf-8') as f:
+    jmdict = json.load(f)
+
 for entry in jmdict['words']:
     keys = []
 
@@ -33,12 +41,12 @@ for entry in jmdict['words']:
         data[key].append(entry)
 
 # Ensure the output directory exists
-os.makedirs(output_dir, exist_ok=True)
+output_dir.mkdir(parents=True, exist_ok=True)
 
 print("Writing JSON files...")
 total_processed = 0
 for key, entries in data.items():
-    with open(os.path.join(output_dir, f'{key}.json'), 'w', encoding='utf-8') as f:
+    with open(output_dir / f'{key}.json', 'w', encoding='utf-8') as f:
         json.dump(entries, f, ensure_ascii=False, separators=(',', ':'))
 
     total_processed += 1
