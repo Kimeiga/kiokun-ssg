@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>test</title>
+    <link rel="preload" href="./dictionary/私.json" as="fetch" crossorigin="anonymous">
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            fetch('./dictionary/私.json')
+                .then(response => response.json())
+                .then(data => console.log(data))
+                .catch(error => console.error('Error loading the JSON:', error));
+        });
+    </script>
+</head>
+
+<body>
+</body>
+
+</html>

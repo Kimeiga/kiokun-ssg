@@ -9,13 +9,22 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 // Define paths relative to the script location
 const INPUT_FILE = path.join(__dirname, 'jmdict-eng-3.5.0.json.gz');
-const OUTPUT_DIR = path.join(__dirname, "..", "dictionary");
+const DEFAULT_OUTPUT_DIR = path.join(__dirname, "..", "dictionary");
+const BUILD_OUTPUT_DIR = path.join(__dirname, "..", ".svelte-kit", "output", "client", "dictionary");
 const WRITE_CHUNK_SIZE = 1000; // Number of files to write at once
+
+// Parse command line arguments
+const args = process.argv.slice(2);
+const isBuildMode = args.includes('-b') || args.includes('--build');
+
+// Set the output directory based on the build flag
+const OUTPUT_DIR = isBuildMode ? BUILD_OUTPUT_DIR : DEFAULT_OUTPUT_DIR;
 
 async function processJMdict() {
     console.log("Processing JMdict file...");
     console.log(`Input file: ${INPUT_FILE}`);
     console.log(`Output directory: ${OUTPUT_DIR}`);
+    console.log(`Build mode: ${isBuildMode ? 'ON' : 'OFF'}`);
 
     const data = new Map();
     let processedCount = 0;
