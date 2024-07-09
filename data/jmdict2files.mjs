@@ -10,7 +10,9 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 // Define paths relative to the script location
 const INPUT_FILE = path.join(__dirname, 'jmdict-eng-3.5.0.json.gz');
 const DEFAULT_OUTPUT_DIR = path.join(__dirname, "..", "dictionary");
-const BUILD_OUTPUT_DIR = path.join(__dirname, "..", ".svelte-kit", "output", "client", "dictionary");
+// const BUILD_OUTPUT_DIR = path.join(__dirname, "..", ".svelte-kit", "output", "client", "dictionary");
+const BUILD_OUTPUT_DIR = path.join(__dirname, "..", ".vercel", "output", "static", "dictionary");
+// .vercel / output / static / dictionary
 const WRITE_CHUNK_SIZE = 1000; // Number of files to write at once
 
 // Parse command line arguments
