@@ -10,18 +10,24 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 // Define paths relative to the script location
 const INPUT_FILE = path.join(__dirname, 'jmdict-eng-3.5.0.json.gz');
 const DEFAULT_OUTPUT_DIR = path.join(__dirname, "..", "dictionary");
-// const BUILD_OUTPUT_DIR = path.join(__dirname, "..", ".svelte-kit", "output", "client", "dictionary");
-const BUILD_OUTPUT_DIR = path.join(__dirname, "..", ".vercel", "output", "static", "dictionary");
-// .vercel / output / static / dictionary
+const SVELTEKIT_OUTPUT_DIR = path.join(__dirname, "..", ".svelte-kit", "output", "client", "dictionary");
+const VERCEL_OUTPUT_DIR = path.join(__dirname, "..", ".vercel", "output", "static", "dictionary");
 const WRITE_CHUNK_SIZE = 1000; // Number of files to write at once
 
 // Parse command line arguments
 const args = process.argv.slice(2);
 const isBuildMode = args.includes('-b') || args.includes('--build');
+const isVercelMode = args.includes('-v') || args.includes('--vercel');
 
-// Set the output directory based on the build flag
-const OUTPUT_DIR = isBuildMode ? BUILD_OUTPUT_DIR : DEFAULT_OUTPUT_DIR;
-
+// Set the output directory based on the flags
+let OUTPUT_DIR;
+if (isVercelMode) {
+    OUTPUT_DIR = VERCEL_OUTPUT_DIR;
+} else if (isBuildMode) {
+    OUTPUT_DIR = SVELTEKIT_OUTPUT_DIR;
+} else {
+    OUTPUT_DIR = DEFAULT_OUTPUT_DIR;
+}
 async function processJMdict() {
     console.log("Processing JMdict file...");
     console.log(`Input file: ${INPUT_FILE}`);
