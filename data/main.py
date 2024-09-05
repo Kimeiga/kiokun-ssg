@@ -23,6 +23,7 @@ with open("data/j2ch/j2ch.json", "r", encoding="utf-8") as file:
 # with open("data/jp/j_exceptions.json", "r", encoding="utf-8") as file:
 #     j_exceptions = json.load(file)
 
+print("hello")
 
 j_exceptions = {
     "仮託": "假託",  # 仮託
@@ -75,6 +76,9 @@ def j2ch_get(j):
     return j2ch.get(j, j)
 
 
+print("hi again")
+
+
 def generate_combinations2(key):
     return ["".join(j2ch_get(char) for char in key)]
 
@@ -89,6 +93,8 @@ def get_j2ch_word(key, index):
     combinations = generate_combinations2(key)
     return filter_entries(combinations, index)
 
+
+print("welcome")
 
 # Get the directory of the script
 script_dir = Path(__file__).resolve().parent
