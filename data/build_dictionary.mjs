@@ -23,19 +23,24 @@ async function unzipFile(xzFilePath, outputFilePath) {
     await pipeline(inputStream, decompressor, outputStream);
 }
 
-async function runPythonScript(scriptPath) {
+async function runPythonScript() {
     return new Promise((resolve, reject) => {
-        const process = spawn('python', [scriptPath]);
-
-        process.stdout.on('data', (data) => {
-            console.log(`Python script output: ${data}`);
+        const pythonProcess = spawn('python', ['-m', 'data.main'], {
+            env: {
+                ...process.env,
+                PYTHONPATH: path.resolve(__dirname, '..') // Add the parent directory to PYTHONPATH
+            }
         });
 
-        process.stderr.on('data', (data) => {
-            console.error(`Python script error: ${data}`);
+        pythonProcess.stdout.on('data', (data) => {
+            process.stdout.write(`Python script output: ${data}`);
+        });
+        
+        pythonProcess.stderr.on('data', (data) => {
+            process.stderr.write(`Python script error: ${data}`);
         });
 
-        process.on('close', (code) => {
+        pythonProcess.on('close', (code) => {
             if (code === 0) {
                 resolve();
             } else {
@@ -54,14 +59,14 @@ async function buildDictionary() {
         const outputPath = xzPath.replace('.xz', '');
         console.log(`Unzipping ${xzPath}...`);
         await unzipFile(xzPath, outputPath);
+        console.log(`Finished unzipping ${xzPath}.`);
     }
 
     console.log("All files unzipped successfully.");
 
-    // Run main.py
-    const mainPyPath = path.join(__dirname, 'main.py');
-    console.log("Running main.py...");
-    await runPythonScript(mainPyPath);
+    // Run main.py with -m
+    console.log("Running Python script using 'python -m data.main'...");
+    await runPythonScript();
 
     console.log("Dictionary build process completed.");
 }

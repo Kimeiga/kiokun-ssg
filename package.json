@@ -4,8 +4,8 @@
 	"private": true,
 	"scripts": {
 		"dev": "vite dev",
-		"build": "vite build && node data/jmdict2files.mjs --build",
-		"build-vercel": "vite build && node data/jmdict2files.mjs --vercel",
+		"build": "vite build && node data/build_dictionary.mjs --build",
+		"build-vercel": "vite build && node data/build_dictionary.mjs --vercel",
 		"preview": "vite preview",
 		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
 		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
@@ -31,10 +31,8 @@
 		"tslib": "^2.4.1",
 		"typescript": "^5.0.0",
 		"typescript-eslint": "^8.0.0-alpha.20",
-		"vite": "^5.0.3"
-	},
-	"type": "module",
-	"dependencies": {
+		"vite": "^5.0.3",
 		"lzma-native": "^8.0.6"
-	}
+	},
+	"type": "module"
 }
