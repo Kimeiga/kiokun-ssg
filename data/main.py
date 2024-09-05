@@ -484,16 +484,31 @@ print(f"Updated {len(japanese_chinese_map)} entries with Japanese-Chinese mappin
 # Ensure the output directory exists
 output_dir.mkdir(parents=True, exist_ok=True)
 
-print("Writing JSON files...")
+print("Writing compressed JSON files...")
 start_time = time.time()
 total_processed = 0
+
 for key, entries_list in all_entries.items():
     if total_processed % 1000 == 0:
-        print(f"Wrote {total_processed} JSON files")
-    with open(output_dir / f"{key}.json", "w", encoding="utf-8") as f:
+        print(f"Wrote {total_processed} compressed JSON files")
+
+    file_path = output_dir / f"{key}.json.gz"
+    with gzip.open(file_path, "wt", encoding="utf-8") as f:
         json.dump(entries_list, f, ensure_ascii=False, separators=(",", ":"))
+
     total_processed += 1
 
 print(f"Total processed entries: {total_processed}")
-print(f"Dictionary files have been written to: {output_dir}")
+print(f"Compressed dictionary files have been written to: {output_dir}")
 print(f"Total writing time: {time.time() - start_time:.2f} seconds")
+
+# Create a manifest file for Vercel's Build Output API
+manifest = {
+    "version": 2,
+    "routes": [{"src": "/dictionary/(.*)", "dest": "/dictionary/$1"}],
+    "builds": [{"src": "dictionary/*.json.gz", "use": "@vercel/static"}],
+}
+with open(output_dir / "manifest.json", "w", encoding="utf-8") as f:
+    json.dump(manifest, f, indent=2)
+
+print("Created manifest file for Vercel's Build Output API")
