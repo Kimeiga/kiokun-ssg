@@ -40,3 +40,5 @@ data/zh/word_dict/dictionary_word_2024-03-19.jsonl
 
 # Python
 __pycache__/
+
+data/datasets/extracted

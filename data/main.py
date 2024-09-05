@@ -8,58 +8,26 @@ import time
 
 import jaconv
 
-# Get the directory of the script
-script_dir = Path(__file__).resolve().parent
-datasets_dir = script_dir / "datasets"
 
-# Add argument parsing
-parser = argparse.ArgumentParser(
-    description="Process dictionary data with build mode options."
-)
-parser.add_argument(
-    "--build", action="store_true", help="Use SvelteKit build output directory"
-)
-parser.add_argument(
-    "--vercel", action="store_true", help="Use Vercel build output directory"
-)
-args = parser.parse_args()
-
-# Set the output directory based on the arguments
-if args.vercel:
-    output_dir = script_dir.parent / ".vercel" / "output" / "static" / "dictionary"
-elif args.build:
-    output_dir = script_dir.parent / ".svelte-kit" / "output" / "client" / "dictionary"
-else:
-    output_dir = script_dir.parent / "dictionary"
-
-print(f"Output directory: {output_dir}")
-
-print("Loading datasets...")
-
-
-def load_json_xz(file_path):
-    with lzma.open(file_path, "rt", encoding="utf-8-sig") as f:
+def load_json(file_path):
+    with open(file_path, "r", encoding="utf-8-sig") as f:
         return json.load(f)
 
 
-def load_jsonl_xz(file_path):
-    with lzma.open(file_path, "rt", encoding="utf-8-sig") as f:
+def load_jsonl(file_path):
+    with open(file_path, "r", encoding="utf-8-sig") as f:
         return [json.loads(line) for line in f]
 
 
-def load_dataset(pattern):
-    files = list(datasets_dir.glob(pattern))
+def load_dataset(pattern, extracted_dir):
+    files = list(extracted_dir.glob(pattern))
     if not files:
-        raise FileNotFoundError(f"No {pattern} file found in {datasets_dir}")
+        raise FileNotFoundError(f"No {pattern} file found in {extracted_dir}")
     file_path = files[0]  # Use the first matching file
-    if file_path.suffix == ".xz":
-        if "jsonl" in file_path.name:
-            return load_jsonl_xz(file_path)
-        else:
-            return load_json_xz(file_path)
+    if "jsonl" in file_path.name:
+        return load_jsonl(file_path)
     else:
-        with open(file_path, "r", encoding="utf-8-sig") as f:
-            return json.load(f)
+        return load_json(file_path)
 
 
 def build_japanese_chinese_mapping(char_dict_data):
@@ -88,14 +56,49 @@ def build_japanese_chinese_mapping(char_dict_data):
     return japanese_chinese_map
 
 
+parser = argparse.ArgumentParser(
+    description="Process dictionary data with extracted files."
+)
+parser.add_argument(
+    "--build", action="store_true", help="Use SvelteKit build output directory"
+)
+parser.add_argument(
+    "--vercel", action="store_true", help="Use Vercel build output directory"
+)
+args = parser.parse_args()
+
+extracted_dir = Path(__file__).resolve().parent / "datasets" / "extracted"
+
+# Set the output directory based on the arguments
+if args.vercel:
+    output_dir = (
+        Path(__file__).resolve().parent.parent
+        / ".vercel"
+        / "output"
+        / "static"
+        / "dictionary"
+    )
+elif args.build:
+    output_dir = (
+        Path(__file__).resolve().parent.parent
+        / ".svelte-kit"
+        / "output"
+        / "client"
+        / "dictionary"
+    )
+else:
+    output_dir = Path(__file__).resolve().parent.parent / "dictionary"
+
+print(f"Output directory: {output_dir}")
+
 # Load all datasets
-jmdict_data = load_dataset("jmdict-*.json*")
-jmnedict_data = load_dataset("jmnedict-*.json*")
-kanjidic_data = load_dataset("kanjidic2-*.json*")
-char_dict_data = load_dataset("dictionary_char_*.jsonl*")
-word_dict_data = load_dataset("dictionary_word_*.jsonl*")
-jmdict_furigana_data = load_dataset("JmdictFurigana*.json.xz")
-jmnedict_furigana_data = load_dataset("JmnedictFurigana*.json.xz")
+jmdict_data = load_dataset("jmdict-*.json", extracted_dir)
+jmnedict_data = load_dataset("jmnedict-*.json", extracted_dir)
+kanjidic_data = load_dataset("kanjidic2-*.json", extracted_dir)
+char_dict_data = load_dataset("dictionary_char_*.jsonl", extracted_dir)
+word_dict_data = load_dataset("dictionary_word_*.jsonl", extracted_dir)
+jmdict_furigana_data = load_dataset("JmdictFurigana*.json", extracted_dir)
+jmnedict_furigana_data = load_dataset("JmnedictFurigana*.json", extracted_dir)
 
 # Add this function call after loading all datasets
 japanese_chinese_map = build_japanese_chinese_mapping(char_dict_data)
