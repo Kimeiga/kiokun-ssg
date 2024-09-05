@@ -1,17 +1,12 @@
 import json
-import os
-import gzip
-import sys
 from collections import defaultdict
 from pathlib import Path
-import romkan
-import itertools
 
 from data.jp.jmdict import load_jmdict, JMdictEntry
 from data.jp.kanjidic import load_kanjidic, Kanjidic2Character
 from data.jp.jmnedict import load_jmnedict, JMnedictWord
-from data.zh.char_dict import load_chinese_char_dict, ChineseCharEntry
-from data.zh.word_dict import load_chinese_word_dict, ChineseWordEntry
+from data.zh.char_dict import load_chinese_char_dict
+from data.zh.word_dict import load_chinese_word_dict
 
 # Load j2ch mapping and exceptions
 with open("data/j2ch/j2ch.json", "r", encoding="utf-8") as file:
