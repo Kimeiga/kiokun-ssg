@@ -38,6 +38,7 @@ print("hiiii")
 
 # Load j2ch mapping and exceptions
 with open("data/j2ch/j2ch.json", "r", encoding="utf-8") as file:
+
     j2ch = json.load(file)
 
 # with open("data/j2ch/j2ch_new_min.json", "r", encoding="utf-8") as file:
