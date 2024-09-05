@@ -5,7 +5,7 @@
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build && node data/build_dictionary.mjs --build",
-		"build-vercel": "vite build && python -m data.main",
+		"build-vercel": "vite build && python3 -m data.main",
 		"preview": "vite preview",
 		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
 		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
