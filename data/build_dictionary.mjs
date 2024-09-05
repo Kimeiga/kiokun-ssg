@@ -1,6 +1,6 @@
 import path from 'path';
 import { fileURLToPath } from 'url';
-import { spawn } from 'child_process';
+// import { spawn } from 'child_process';
 import { createReadStream, createWriteStream } from 'fs';
 import { pipeline } from 'stream/promises';
 import lzma from 'lzma-native';
@@ -23,32 +23,32 @@ async function unzipFile(xzFilePath, outputFilePath) {
     await pipeline(inputStream, decompressor, outputStream);
 }
 
-async function runPythonScript() {
-    return new Promise((resolve, reject) => {
-        const pythonProcess = spawn('python', ['-m', 'data.main'], {
-            env: {
-                ...process.env,
-                PYTHONPATH: path.resolve(__dirname, '..') // Add the parent directory to PYTHONPATH
-            }
-        });
+// async function runPythonScript() {
+//     return new Promise((resolve, reject) => {
+//         const pythonProcess = spawn('python', ['-m', 'data.main'], {
+//             env: {
+//                 ...process.env,
+//                 PYTHONPATH: path.resolve(__dirname, '..') // Add the parent directory to PYTHONPATH
+//             }
+//         });
 
-        pythonProcess.stdout.on('data', (data) => {
-            process.stdout.write(`Python script output: ${data}`);
-        });
+//         pythonProcess.stdout.on('data', (data) => {
+//             process.stdout.write(`Python script output: ${data}`);
+//         });
         
-        pythonProcess.stderr.on('data', (data) => {
-            process.stderr.write(`Python script error: ${data}`);
-        });
+//         pythonProcess.stderr.on('data', (data) => {
+//             process.stderr.write(`Python script error: ${data}`);
+//         });
 
-        pythonProcess.on('close', (code) => {
-            if (code === 0) {
-                resolve();
-            } else {
-                reject(new Error(`Python script exited with code ${code}`));
-            }
-        });
-    });
-}
+//         pythonProcess.on('close', (code) => {
+//             if (code === 0) {
+//                 resolve();
+//             } else {
+//                 reject(new Error(`Python script exited with code ${code}`));
+//             }
+//         });
+//     });
+// }
 
 async function buildDictionary() {
     console.log("Starting dictionary build process...");
@@ -66,9 +66,9 @@ async function buildDictionary() {
 
     // Run main.py with -m
     console.log("Running Python script using 'python -m data.main'...");
-    await runPythonScript();
+    // await runPythonScript();
 
-    console.log("Dictionary build process completed.");
+    // console.log("Dictionary build process completed.");
 }
 
 buildDictionary().catch(console.error);
