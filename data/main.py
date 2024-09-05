@@ -1,4 +1,5 @@
 import argparse
+import gzip
 import json
 from collections import defaultdict
 from pathlib import Path
@@ -32,8 +33,15 @@ def load_dataset(pattern, extracted_dir):
 
 def build_japanese_chinese_mapping(char_dict_data):
     japanese_chinese_map = {}
+    total_entries = len(char_dict_data)
+    matches_found = 0
 
-    for char_entry in char_dict_data:
+    for index, char_entry in enumerate(char_dict_data):
+        if index % 10000 == 0:
+            print(
+                f"Processed {index}/{total_entries} entries in build_japanese_chinese_mapping"
+            )
+
         if "statistics" in char_entry and "top_words" in char_entry["statistics"]:
             top_words = char_entry["statistics"]["top_words"]
             if len(top_words) == 1:
@@ -52,7 +60,11 @@ def build_japanese_chinese_mapping(char_dict_data):
                                 "t": chars[0],
                                 "s": chars[0],
                             }
+                        matches_found += 1
 
+    print(
+        f"Found {matches_found} Japanese-Chinese mappings out of {total_entries} entries"
+    )
     return japanese_chinese_map
 
 
