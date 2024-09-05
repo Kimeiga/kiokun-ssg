@@ -1,0 +1,10 @@
+{
+    "buildCommand": "npm run build-vercel",
+    "outputDirectory": ".vercel/output",
+    "framework": "sveltekit",
+    "functions": {
+      "api/*.py": {
+        "runtime": "python3.9"
+      }
+    }
+  }
