@@ -9,6 +9,7 @@ from data.jp.jmnedict import load_jmnedict, JMnedictWord
 from data.zh.char_dict import load_chinese_char_dict
 from data.zh.word_dict import load_chinese_word_dict
 
+
 # Add argument parsing
 parser = argparse.ArgumentParser(
     description="Process dictionary data with build mode options."
