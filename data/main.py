@@ -124,6 +124,7 @@ def process_kanjidic_entry(entry, index):
     key = entry["literal"]
 
     minified_entry = {
+        "char": entry["literal"],
         "info": {
             **(
                 {"frequency": entry["misc"]["frequency"]}

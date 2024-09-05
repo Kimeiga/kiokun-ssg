@@ -5,7 +5,7 @@
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build && python3 -m data.main --build",
-		"build-vercel": "vite build && python3 -m data.main --vercel",
+		"build-vercel": "NODE_OPTIONS=--max-old-space-size=6144 vite build && python3 -m data.main --vercel",
 		"preview": "vite preview",
 		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
 		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
