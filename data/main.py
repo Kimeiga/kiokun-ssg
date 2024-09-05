@@ -1,12 +1,40 @@
 import json
 from collections import defaultdict
 from pathlib import Path
+import argparse
 
 from data.jp.jmdict import load_jmdict, JMdictEntry
 from data.jp.kanjidic import load_kanjidic, Kanjidic2Character
 from data.jp.jmnedict import load_jmnedict, JMnedictWord
 from data.zh.char_dict import load_chinese_char_dict
 from data.zh.word_dict import load_chinese_word_dict
+
+# Add argument parsing
+parser = argparse.ArgumentParser(
+    description="Process dictionary data with build mode options."
+)
+parser.add_argument(
+    "--build", action="store_true", help="Use SvelteKit build output directory"
+)
+parser.add_argument(
+    "--vercel", action="store_true", help="Use Vercel build output directory"
+)
+args = parser.parse_args()
+
+# Get the directory of the script
+script_dir = Path(__file__).resolve().parent
+
+# Set the output directory based on the arguments
+if args.vercel:
+    output_dir = script_dir.parent / ".vercel" / "output" / "static" / "dictionary"
+elif args.build:
+    output_dir = script_dir.parent / ".svelte-kit" / "output" / "client" / "dictionary"
+else:
+    output_dir = script_dir.parent / "dictionary"
+
+print(f"Output directory: {output_dir}")
+
+print("hiiii")
 
 # Load j2ch mapping and exceptions
 with open("data/j2ch/j2ch.json", "r", encoding="utf-8") as file:
@@ -256,6 +284,7 @@ for index, entry in enumerate(jmnedict.words):
                 data[key]["v_c_n"].extend(word_index[zh_key]["c"])
                 data[zh_key]["v_j_n"].append(index)
 
+
 # Ensure the output directory exists
 output_dir.mkdir(parents=True, exist_ok=True)
 
@@ -268,3 +297,4 @@ for key, entries in data.items():
     total_processed += 1
 
 print(f"Total processed entries: {total_processed}")
+print(f"Dictionary files have been written to: {output_dir}")
