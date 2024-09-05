@@ -24,3 +24,15 @@ vite.config.ts.timestamp-*
 /dictionary
 /data/*.json
 /static
+
+# dictionary files
+data/jp/jmdict/jmdict-eng-3.5.0.json
+data/jp/jmnedict/jmnedict-all-3.5.0.json
+data/jp/kanjidic/kanjidic2-en-3.5.0.json
+data/jp/kradfile/kradfile-3.5.0.json
+data/jp/radkfile/radkfile-3.5.0.json
+data/zh/char_dict/dictionary_char_2024-03-19.jsonl
+data/zh/char_dict/dict.json
+data/zh/char_dict/dict2.json
+data/zh/word_dict/dict.json
+data/zh/word_dict/dictionary_word_2024-03-19.jsonl

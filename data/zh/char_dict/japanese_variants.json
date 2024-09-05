@@ -1,0 +1,7037 @@
+[
+  {
+    "_id": "5f523afdde54193ed87304c6",
+    "char": "児",
+    "codepoint": "U+5150",
+    "stroke_count": 7,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "son",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 4137,
+      "book_word_count_percent": 2.498179419441435e-07,
+      "book_word_rank": 48926,
+      "top_words": [
+        {
+          "word": "児",
+          "share": 0.5,
+          "trad": "児",
+          "gloss": "Japanese variant of 兒|儿[ér]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed87305d9",
+    "char": "剣",
+    "codepoint": "U+5263",
+    "stroke_count": 10,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "sword",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 1892,
+      "book_word_count_percent": 1.1425079675086282e-07,
+      "book_word_rank": 56581,
+      "top_words": [
+        {
+          "word": "剣",
+          "share": 0.5,
+          "trad": "剣",
+          "gloss": "Japanese variant of 劍|剑"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed87305da",
+    "char": "剤",
+    "codepoint": "U+5264",
+    "stroke_count": 10,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "medicinal preparation",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 113,
+      "book_word_count_percent": 6.823646951822145e-09,
+      "book_word_rank": 71359,
+      "top_words": [
+        {
+          "word": "剤",
+          "share": 0.5,
+          "trad": "剤",
+          "gloss": "Japanese variant of 劑|剂"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed87305e6",
+    "char": "剰",
+    "codepoint": "U+5270",
+    "stroke_count": 11,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "leftovers",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 188,
+      "book_word_count_percent": 1.1352616167633304e-08,
+      "book_word_rank": 69916,
+      "top_words": [
+        {
+          "word": "剰",
+          "share": 0.5,
+          "trad": "剰",
+          "gloss": "Japanese variant of 剩[shèng]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed873062a",
+    "char": "労",
+    "codepoint": "U+52B4",
+    "stroke_count": 7,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "labor",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 516,
+      "book_word_count_percent": 3.115930820478077e-08,
+      "book_word_rank": 65772,
+      "top_words": [
+        {
+          "word": "労",
+          "share": 0.5,
+          "trad": "労",
+          "gloss": "Japanese variant of 勞|劳"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed873065d",
+    "char": "勧",
+    "codepoint": "U+52E7",
+    "stroke_count": 13,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "recommend",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 101,
+      "book_word_count_percent": 6.09901187729236e-09,
+      "book_word_rank": 71719,
+      "top_words": [
+        {
+          "word": "勧",
+          "share": 0.5,
+          "trad": "勧",
+          "gloss": "Japanese variant of 勸|劝"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed87306ce",
+    "char": "単",
+    "codepoint": "U+5358",
+    "stroke_count": 9,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "same as 單 U+55AE",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 1321,
+      "book_word_count_percent": 7.97702444544872e-08,
+      "book_word_rank": 59644,
+      "top_words": [
+        {
+          "word": "単",
+          "share": 0.5,
+          "trad": "単",
+          "gloss": "Japanese variant of 單|单"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8730729",
+    "char": "厳",
+    "codepoint": "U+53B3",
+    "stroke_count": 16,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "strict",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 381,
+      "book_word_count_percent": 2.3007163616320685e-08,
+      "book_word_rank": 67217,
+      "top_words": [
+        {
+          "word": "厳",
+          "share": 0.5,
+          "trad": "厳",
+          "gloss": "Japanese variant of 嚴|严"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8730197",
+    "char": "両",
+    "codepoint": "U+4E21",
+    "stroke_count": 6,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "two",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 989,
+      "book_word_count_percent": 5.972200739249648e-08,
+      "book_word_rank": 61805,
+      "top_words": [
+        {
+          "word": "両",
+          "share": 0.5,
+          "trad": "両",
+          "gloss": "Japanese variant of 兩|两"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed87301cd",
+    "char": "乗",
+    "codepoint": "U+4E57",
+    "stroke_count": 9,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "ride",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 1196,
+      "book_word_count_percent": 7.222196242813527e-08,
+      "book_word_rank": 60459,
+      "top_words": [
+        {
+          "word": "乗",
+          "share": 0.5,
+          "trad": "乗",
+          "gloss": "Japanese variant of 乘[chéng]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8730212",
+    "char": "亜",
+    "codepoint": "U+4E9C",
+    "stroke_count": 7,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "Asia",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 2362,
+      "book_word_count_percent": 1.4263233716994608e-07,
+      "book_word_rank": 54614,
+      "top_words": [
+        {
+          "word": "亜",
+          "share": 0.5,
+          "trad": "亜",
+          "gloss": "Japanese variant of 亞|亚"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8730245",
+    "char": "仏",
+    "codepoint": "U+4ECF",
+    "stroke_count": 4,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "Buddha",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 566,
+      "book_word_count_percent": 3.417862101532154e-08,
+      "book_word_rank": 65277,
+      "top_words": [
+        {
+          "word": "仏",
+          "share": 0.5,
+          "trad": "仏",
+          "gloss": "Japanese variant of 佛"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8730264",
+    "char": "仮",
+    "codepoint": "U+4EEE",
+    "stroke_count": 6,
+    "sources": [
+      "academia-sinica",
+      "unicode"
+    ],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%BB%AE_0.png",
+        "source": "academia-sinica",
+        "description": "睡.日乙22(隸)秦",
+        "type": "Clerical",
+        "era": "Qin dynasty (221-206 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%BB%AE_1.png",
+        "source": "academia-sinica",
+        "description": "漢印西漢",
+        "type": "Seal",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      }
+    ],
+    "variants": [
+      {
+        "char": "仮",
+        "parts": "亻反",
+        "source": "academia-sinica"
+      }
+    ],
+    "gloss": "falsehood",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 1312,
+      "book_word_count_percent": 7.922676814858986e-08,
+      "book_word_rank": 59706,
+      "top_words": [
+        {
+          "word": "仮",
+          "share": 0.5,
+          "trad": "仮",
+          "gloss": "Japanese variant of 假"
+        }
+      ]
+    },
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8730317",
+    "char": "価",
+    "codepoint": "U+4FA1",
+    "stroke_count": 8,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "price",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 1948,
+      "book_word_count_percent": 1.1763242709866849e-07,
+      "book_word_rank": 56312,
+      "top_words": [
+        {
+          "word": "価",
+          "share": 0.5,
+          "trad": "価",
+          "gloss": "Japanese variant of 價|价"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8730bb7",
+    "char": "塁",
+    "codepoint": "U+5841",
+    "stroke_count": 12,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "rampart",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 72,
+      "book_word_count_percent": 4.347810447178712e-09,
+      "book_word_rank": 72521,
+      "top_words": [
+        {
+          "word": "塁",
+          "share": 0.5,
+          "trad": "塁",
+          "gloss": "Japanese variant of 壘|垒"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8730bdf",
+    "char": "塩",
+    "codepoint": "U+5869",
+    "stroke_count": 13,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "salt",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 583,
+      "book_word_count_percent": 3.5205187370905404e-08,
+      "book_word_rank": 65120,
+      "top_words": [
+        {
+          "word": "塩",
+          "share": 0.5,
+          "trad": "塩",
+          "gloss": "Japanese variant of 鹽|盐"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8730c0d",
+    "char": "増",
+    "codepoint": "U+5897",
+    "stroke_count": 14,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "increase",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 2583,
+      "book_word_count_percent": 1.559776997925363e-07,
+      "book_word_rank": 53763,
+      "top_words": [
+        {
+          "word": "増",
+          "share": 0.5,
+          "trad": "増",
+          "gloss": "Japanese variant of 增[zēng]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8730c40",
+    "char": "壊",
+    "codepoint": "U+58CA",
+    "stroke_count": 16,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "bad",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 1188,
+      "book_word_count_percent": 7.173887237844875e-08,
+      "book_word_rank": 60507,
+      "top_words": [
+        {
+          "word": "壊",
+          "share": 0.5,
+          "trad": "壊",
+          "gloss": "Japanese variant of 壞|坏"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8730c42",
+    "char": "壌",
+    "codepoint": "U+58CC",
+    "stroke_count": 16,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "soil",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 83,
+      "book_word_count_percent": 5.0120592654976816e-09,
+      "book_word_rank": 72201,
+      "top_words": [
+        {
+          "word": "壌",
+          "share": 0.5,
+          "trad": "壌",
+          "gloss": "Japanese variant of 壤"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8730c67",
+    "char": "壱",
+    "codepoint": "U+58F1",
+    "stroke_count": 7,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "number one",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 1123,
+      "book_word_count_percent": 6.781376572474575e-08,
+      "book_word_rank": 60945,
+      "top_words": [
+        {
+          "word": "壱",
+          "share": 0.5,
+          "trad": "壱",
+          "gloss": "Japanese variant of 壹[yī]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8730c68",
+    "char": "売",
+    "codepoint": "U+58F2",
+    "stroke_count": 7,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "sell",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 5970,
+      "book_word_count_percent": 3.605059495785682e-07,
+      "book_word_rank": 44826,
+      "top_words": [
+        {
+          "word": "売",
+          "share": 0.5,
+          "trad": "売",
+          "gloss": "Japanese variant of 賣|卖[mài]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8730c7f",
+    "char": "変",
+    "codepoint": "U+5909",
+    "stroke_count": 9,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "change",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 6557,
+      "book_word_count_percent": 3.959526819743169e-07,
+      "book_word_rank": 43720,
+      "top_words": [
+        {
+          "word": "変",
+          "share": 0.5,
+          "trad": "変",
+          "gloss": "Japanese variant of 變|变[biàn]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8730cde",
+    "char": "奨",
+    "codepoint": "U+5968",
+    "stroke_count": 13,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "Japanese variant of 獎|奖[jiǎng]",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 190,
+      "book_word_count_percent": 1.1473388680054934e-08,
+      "book_word_rank": 69892,
+      "top_words": [
+        {
+          "word": "奨",
+          "share": 0.5,
+          "trad": "奨",
+          "gloss": "Japanese variant of 獎|奖[jiǎng]"
+        }
+      ]
+    },
+    "trad_variants": [
+      "奬"
+    ],
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8730da5",
+    "char": "娯",
+    "codepoint": "U+5A2F",
+    "stroke_count": 10,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "pleasure",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 136,
+      "book_word_count_percent": 8.212530844670901e-09,
+      "book_word_rank": 70856,
+      "top_words": [
+        {
+          "word": "娯",
+          "share": 0.5,
+          "trad": "娯",
+          "gloss": "Japanese variant of 娛|娱[yú]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8730e98",
+    "char": "嬢",
+    "codepoint": "U+5B22",
+    "stroke_count": 16,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "troubled",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 2613,
+      "book_word_count_percent": 1.5778928747886075e-07,
+      "book_word_rank": 53657,
+      "top_words": [
+        {
+          "word": "嬢",
+          "share": 0.5,
+          "trad": "嬢",
+          "gloss": "Japanese variant of 孃|娘[niáng]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8730f15",
+    "char": "実",
+    "codepoint": "U+5B9F",
+    "stroke_count": 8,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "real",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 5241,
+      "book_word_count_percent": 3.1648436880088374e-07,
+      "book_word_rank": 46284,
+      "top_words": [
+        {
+          "word": "実",
+          "share": 0.5,
+          "trad": "実",
+          "gloss": "Japanese variant of 實|实"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8730f51",
+    "char": "寛",
+    "codepoint": "U+5BDB",
+    "stroke_count": 13,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "broad",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 512,
+      "book_word_count_percent": 3.0917763179937505e-08,
+      "book_word_rank": 65810,
+      "top_words": [
+        {
+          "word": "寛",
+          "share": 0.5,
+          "trad": "寛",
+          "gloss": "Japanese variant of 寬|宽"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8730f74",
+    "char": "対",
+    "codepoint": "U+5BFE",
+    "stroke_count": 7,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "correct",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 4660,
+      "book_word_count_percent": 2.8139995394239997e-07,
+      "book_word_rank": 47582,
+      "top_words": [
+        {
+          "word": "対",
+          "share": 0.5,
+          "trad": "対",
+          "gloss": "Japanese variant of 對|对[duì]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8730f78",
+    "char": "専",
+    "codepoint": "U+5C02",
+    "stroke_count": 9,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "monopolize",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 1381,
+      "book_word_count_percent": 8.339341982713613e-08,
+      "book_word_rank": 59286,
+      "top_words": [
+        {
+          "word": "専",
+          "share": 0.5,
+          "trad": "専",
+          "gloss": "Japanese variant of 專|专"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8730fa3",
+    "char": "尭",
+    "codepoint": "U+5C2D",
+    "stroke_count": 8,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "a legendary ancient emperor-sage",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 15,
+      "book_word_count_percent": 9.057938431622316e-10,
+      "book_word_rank": 75358,
+      "top_words": [
+        {
+          "word": "尭",
+          "share": 0.5,
+          "trad": "尭",
+          "gloss": "Japanese variant of 堯|尧[yáo]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed87307bf",
+    "char": "呉",
+    "codepoint": "U+5449",
+    "stroke_count": 7,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "one of warring states",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 697,
+      "book_word_count_percent": 4.208922057893837e-08,
+      "book_word_rank": 64107,
+      "top_words": [
+        {
+          "word": "呉",
+          "share": 0.5,
+          "trad": "呉",
+          "gloss": "Japanese variant of 吳|吴"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed873091f",
+    "char": "喩",
+    "codepoint": "U+55A9",
+    "stroke_count": 12,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "metaphor",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 32,
+      "book_word_count_percent": 1.932360198746094e-09,
+      "book_word_rank": 74273,
+      "top_words": [
+        {
+          "word": "喩",
+          "share": 0.5,
+          "trad": "喩",
+          "gloss": "Japanese variant of 喻"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed873092c",
+    "char": "営",
+    "codepoint": "U+55B6",
+    "stroke_count": 11,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "encampment",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 537,
+      "book_word_count_percent": 3.242741958520789e-08,
+      "book_word_rank": 65565,
+      "top_words": [
+        {
+          "word": "営",
+          "share": 0.5,
+          "trad": "営",
+          "gloss": "Japanese variant of 營|营"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8730a59",
+    "char": "団",
+    "codepoint": "U+56E3",
+    "stroke_count": 6,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "sphere",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 1709,
+      "book_word_count_percent": 1.032001118642836e-07,
+      "book_word_rank": 57486,
+      "top_words": [
+        {
+          "word": "団",
+          "share": 0.5,
+          "trad": "団",
+          "gloss": "Japanese variant of 團|团"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8730a68",
+    "char": "囲",
+    "codepoint": "U+56F2",
+    "stroke_count": 7,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "surround",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 601,
+      "book_word_count_percent": 3.629213998270008e-08,
+      "book_word_rank": 64964,
+      "top_words": [
+        {
+          "word": "囲",
+          "share": 0.5,
+          "trad": "囲",
+          "gloss": "Japanese variant of 圍|围[wéi]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8730a69",
+    "char": "図",
+    "codepoint": "U+56F3",
+    "stroke_count": 7,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "diagram",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 943,
+      "book_word_count_percent": 5.694423960679896e-08,
+      "book_word_rank": 62140,
+      "top_words": [
+        {
+          "word": "図",
+          "share": 0.5,
+          "trad": "図",
+          "gloss": "Japanese variant of 圖|图"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8730a85",
+    "char": "圏",
+    "codepoint": "U+570F",
+    "stroke_count": 12,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "to circle",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 1246,
+      "book_word_count_percent": 7.524127523867604e-08,
+      "book_word_rank": 60117,
+      "top_words": [
+        {
+          "word": "圏",
+          "share": 0.5,
+          "trad": "圏",
+          "gloss": "Japanese variant of 圈"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8730a9d",
+    "char": "圧",
+    "codepoint": "U+5727",
+    "stroke_count": 5,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "same as 壓 U+58D3",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 476,
+      "book_word_count_percent": 2.874385795634815e-08,
+      "book_word_rank": 66159,
+      "top_words": [
+        {
+          "word": "圧",
+          "share": 0.5,
+          "trad": "圧",
+          "gloss": "Japanese variant of 壓|压"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed87313eb",
+    "char": "恵",
+    "codepoint": "U+6075",
+    "stroke_count": 10,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "favor",
+    "statistics": {
+      "hsk_level": 10,
+      "movie_word_count": 18,
+      "movie_word_count_percent": 5.365683876084181e-07,
+      "movie_word_rank": 27794,
+      "movie_word_contexts": 3,
+      "movie_word_contexts_percent": 0.0004805382027871216,
+      "book_word_count": 2366,
+      "book_word_count_percent": 1.4287388219478934e-07,
+      "book_word_rank": 54595,
+      "top_words": [
+        {
+          "word": "恵",
+          "share": 1,
+          "trad": "恵",
+          "gloss": "Japanese variant of 惠[huì]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed873141f",
+    "char": "悩",
+    "codepoint": "U+60A9",
+    "stroke_count": 10,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "angered",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 450,
+      "book_word_count_percent": 2.7173815294866952e-08,
+      "book_word_rank": 66439,
+      "top_words": [
+        {
+          "word": "悩",
+          "share": 0.5,
+          "trad": "悩",
+          "gloss": "Japanese variant of 惱|恼"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8731420",
+    "char": "悪",
+    "codepoint": "U+60AA",
+    "stroke_count": 11,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "evil",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 2964,
+      "book_word_count_percent": 1.7898486340885697e-07,
+      "book_word_rank": 52379,
+      "top_words": [
+        {
+          "word": "悪",
+          "share": 0.5,
+          "trad": "悪",
+          "gloss": "Japanese variant of 惡|恶[è]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8731546",
+    "char": "懐",
+    "codepoint": "U+61D0",
+    "stroke_count": 16,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "bosom",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 1023,
+      "book_word_count_percent": 6.177514010366421e-08,
+      "book_word_rank": 61552,
+      "top_words": [
+        {
+          "word": "懐",
+          "share": 0.5,
+          "trad": "懐",
+          "gloss": "Japanese variant of 懷|怀"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed873159c",
+    "char": "戦",
+    "codepoint": "U+6226",
+    "stroke_count": 13,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "war",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 6058,
+      "book_word_count_percent": 3.6581994012511997e-07,
+      "book_word_rank": 44657,
+      "top_words": [
+        {
+          "word": "戦",
+          "share": 0.5,
+          "trad": "戦",
+          "gloss": "Japanese variant of 戰|战"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed87315b1",
+    "char": "戻",
+    "codepoint": "U+623B",
+    "stroke_count": 7,
+    "sources": [
+      "academia-sinica",
+      "unicode"
+    ],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E6%88%BB_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧戶部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“戻，輜車旁推戶也。从戶，大聲。讀與釱同。”",
+    "variants": [
+      {
+        "char": "戻",
+        "parts": "戶大",
+        "source": "academia-sinica"
+      }
+    ],
+    "gloss": "perverse",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 901,
+      "book_word_count_percent": 5.4408016845944713e-08,
+      "book_word_rank": 62433,
+      "top_words": [
+        {
+          "word": "戻",
+          "share": 0.5,
+          "trad": "戻",
+          "gloss": "Japanese variant of 戾[lì]"
+        }
+      ]
+    },
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8731612",
+    "char": "抜",
+    "codepoint": "U+629C",
+    "stroke_count": 7,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "uproot",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 939,
+      "book_word_count_percent": 5.6702694581955704e-08,
+      "book_word_rank": 62175,
+      "top_words": [
+        {
+          "word": "抜",
+          "share": 0.5,
+          "trad": "抜",
+          "gloss": "Japanese variant of 拔[bá]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8731614",
+    "char": "択",
+    "codepoint": "U+629E",
+    "stroke_count": 7,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "select",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 295,
+      "book_word_count_percent": 1.7813945582190556e-08,
+      "book_word_rank": 68295,
+      "top_words": [
+        {
+          "word": "択",
+          "share": 0.5,
+          "trad": "択",
+          "gloss": "Japanese variant of 擇|择"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8731653",
+    "char": "拝",
+    "codepoint": "U+62DD",
+    "stroke_count": 8,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "do obeisance",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 270,
+      "book_word_count_percent": 1.630428917692017e-08,
+      "book_word_rank": 68614,
+      "top_words": [
+        {
+          "word": "拝",
+          "share": 0.5,
+          "trad": "拝",
+          "gloss": "Japanese variant of 拜[bài]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8731656",
+    "char": "拠",
+    "codepoint": "U+62E0",
+    "stroke_count": 8,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "to occupy",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 134,
+      "book_word_count_percent": 8.09175833224927e-09,
+      "book_word_rank": 70903,
+      "top_words": [
+        {
+          "word": "拠",
+          "share": 0.5,
+          "trad": "拠",
+          "gloss": "Japanese variant of 據|据"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8731657",
+    "char": "拡",
+    "codepoint": "U+62E1",
+    "stroke_count": 8,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "expand",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 384,
+      "book_word_count_percent": 2.318832238495313e-08,
+      "book_word_rank": 67184,
+      "top_words": [
+        {
+          "word": "拡",
+          "share": 0.5,
+          "trad": "拡",
+          "gloss": "Japanese variant of 擴|扩"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed873168f",
+    "char": "挙",
+    "codepoint": "U+6319",
+    "stroke_count": 10,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "Japanese variant of 舉|举",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 411,
+      "book_word_count_percent": 2.481875130264515e-08,
+      "book_word_rank": 66850,
+      "top_words": [
+        {
+          "word": "挙",
+          "share": 0.5,
+          "trad": "挙",
+          "gloss": "Japanese variant of 舉|举"
+        }
+      ]
+    },
+    "trad_variants": [
+      "𢸁"
+    ],
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed87316b5",
+    "char": "挿",
+    "codepoint": "U+633F",
+    "stroke_count": 10,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "insert",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 178,
+      "book_word_count_percent": 1.074875360552515e-08,
+      "book_word_rank": 70073,
+      "top_words": [
+        {
+          "word": "挿",
+          "share": 0.5,
+          "trad": "挿",
+          "gloss": "Japanese variant of 插[chā]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed87316d2",
+    "char": "捜",
+    "codepoint": "U+635C",
+    "stroke_count": 10,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "search",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 687,
+      "book_word_count_percent": 4.148535801683021e-08,
+      "book_word_rank": 64187,
+      "top_words": [
+        {
+          "word": "捜",
+          "share": 0.5,
+          "trad": "捜",
+          "gloss": "Japanese variant of 搜[sōu]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8731728",
+    "char": "掲",
+    "codepoint": "U+63B2",
+    "stroke_count": 11,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "to set (a table)",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 544,
+      "book_word_count_percent": 3.2850123378683605e-08,
+      "book_word_rank": 65504,
+      "top_words": [
+        {
+          "word": "掲",
+          "share": 0.5,
+          "trad": "掲",
+          "gloss": "Japanese variant of 揭"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8731770",
+    "char": "揺",
+    "codepoint": "U+63FA",
+    "stroke_count": 12,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "wag",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 478,
+      "book_word_count_percent": 2.8864630468769783e-08,
+      "book_word_rank": 66142,
+      "top_words": [
+        {
+          "word": "揺",
+          "share": 0.5,
+          "trad": "揺",
+          "gloss": "Japanese variant of 搖|摇[yáo]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8731142",
+    "char": "巌",
+    "codepoint": "U+5DCC",
+    "stroke_count": 19,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "cliff",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 58,
+      "book_word_count_percent": 3.5024028602272957e-09,
+      "book_word_rank": 73016,
+      "top_words": [
+        {
+          "word": "巌",
+          "share": 0.5,
+          "trad": "巌",
+          "gloss": "Japanese variant of 巖[yán]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8731159",
+    "char": "巣",
+    "codepoint": "U+5DE3",
+    "stroke_count": 11,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "nest",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 319,
+      "book_word_count_percent": 1.926321573125013e-08,
+      "book_word_rank": 67955,
+      "top_words": [
+        {
+          "word": "巣",
+          "share": 0.5,
+          "trad": "巣",
+          "gloss": "Japanese variant of 巢"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8731171",
+    "char": "巻",
+    "codepoint": "U+5DFB",
+    "stroke_count": 9,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "scroll",
+    "statistics": {
+      "hsk_level": 10,
+      "movie_word_count": 10,
+      "movie_word_count_percent": 2.980935486713434e-07,
+      "movie_word_rank": 36157,
+      "movie_word_contexts": 2,
+      "movie_word_contexts_percent": 0.00032035880185808104,
+      "book_word_count": 1515,
+      "book_word_count_percent": 9.14851781593854e-08,
+      "book_word_rank": 58493,
+      "top_words": [
+        {
+          "word": "巻",
+          "share": 1,
+          "trad": "巻",
+          "gloss": "Japanese variant of 卷"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed87311a5",
+    "char": "帯",
+    "codepoint": "U+5E2F",
+    "stroke_count": 10,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "belt",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 1285,
+      "book_word_count_percent": 7.759633923089785e-08,
+      "book_word_rank": 59886,
+      "top_words": [
+        {
+          "word": "帯",
+          "share": 0.5,
+          "trad": "帯",
+          "gloss": "Japanese variant of 帶|带"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed87311a6",
+    "char": "帰",
+    "codepoint": "U+5E30",
+    "stroke_count": 10,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "return",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 3384,
+      "book_word_count_percent": 2.0434709101739947e-07,
+      "book_word_rank": 51024,
+      "top_words": [
+        {
+          "word": "帰",
+          "share": 0.5,
+          "trad": "帰",
+          "gloss": "Japanese variant of 歸|归"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed87311f7",
+    "char": "庁",
+    "codepoint": "U+5E81",
+    "stroke_count": 5,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "hall",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 298,
+      "book_word_count_percent": 1.7995104350823004e-08,
+      "book_word_rank": 68247,
+      "top_words": [
+        {
+          "word": "庁",
+          "share": 0.5,
+          "trad": "庁",
+          "gloss": "Japanese variant of 廳|厅"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed87311f9",
+    "char": "広",
+    "codepoint": "U+5E83",
+    "stroke_count": 5,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "broad",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 2311,
+      "book_word_count_percent": 1.395526381031945e-07,
+      "book_word_rank": 54837,
+      "top_words": [
+        {
+          "word": "広",
+          "share": 0.5,
+          "trad": "広",
+          "gloss": "Japanese variant of 廣|广"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8731239",
+    "char": "廃",
+    "codepoint": "U+5EC3",
+    "stroke_count": 12,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "abrogate",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 253,
+      "book_word_count_percent": 1.5277722821336307e-08,
+      "book_word_rank": 68875,
+      "top_words": [
+        {
+          "word": "廃",
+          "share": 0.5,
+          "trad": "廃",
+          "gloss": "Japanese variant of 廢|废[fèi]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8731286",
+    "char": "弐",
+    "codepoint": "U+5F10",
+    "stroke_count": 6,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "number two",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 88,
+      "book_word_count_percent": 5.3139905465517594e-09,
+      "book_word_rank": 72055,
+      "top_words": [
+        {
+          "word": "弐",
+          "share": 0.5,
+          "trad": "弐",
+          "gloss": "Japanese variant of 貳|贰[èr]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed87312b4",
+    "char": "弾",
+    "codepoint": "U+5F3E",
+    "stroke_count": 12,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "variant of 彈 U+5F48",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 1889,
+      "book_word_count_percent": 1.1406963798223037e-07,
+      "book_word_rank": 56595,
+      "top_words": [
+        {
+          "word": "弾",
+          "share": 0.5,
+          "trad": "弾",
+          "gloss": "Japanese variant of 彈|弹"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8731329",
+    "char": "徳",
+    "codepoint": "U+5FB3",
+    "stroke_count": 14,
+    "sources": [
+      "academia-sinica",
+      "unicode"
+    ],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E5%BE%B3_0.png",
+        "source": "academia-sinica",
+        "description": "甲2304(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E5%BE%B3_1.png",
+        "source": "academia-sinica",
+        "description": "乙907(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E5%BE%B3_2.png",
+        "source": "academia-sinica",
+        "description": "德方鼎(金)西周早期",
+        "type": "Bronze",
+        "era": "Early Western Zhou (~1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E5%BE%B3_3.png",
+        "source": "academia-sinica",
+        "description": "師望鼎(金)西周中期",
+        "type": "Bronze",
+        "era": "Mid Western Zhou (~900 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E5%BE%B3_4.png",
+        "source": "academia-sinica",
+        "description": "季嬴霝德盤(金)西周中期",
+        "type": "Bronze",
+        "era": "Mid Western Zhou (~900 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E5%BE%B3_5.png",
+        "source": "academia-sinica",
+        "description": "蔡侯紐鐘(金)春秋晚期",
+        "type": "Bronze",
+        "era": "Late Spring and Autumn (~500 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E5%BE%B3_6.png",
+        "source": "academia-sinica",
+        "description": "信1.05(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E5%BE%B3_7.png",
+        "source": "academia-sinica",
+        "description": "包2.84(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E5%BE%B3_8.png",
+        "source": "academia-sinica",
+        "description": "說文‧彳部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E5%BE%B3_9.png",
+        "source": "academia-sinica",
+        "description": "泰山刻石(篆)秦",
+        "type": "Seal",
+        "era": "Qin dynasty (221-206 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E5%BE%B3_10.png",
+        "source": "academia-sinica",
+        "description": "兩詔楕量(篆)秦",
+        "type": "Seal",
+        "era": "Qin dynasty (221-206 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E5%BE%B3_11.png",
+        "source": "academia-sinica",
+        "description": "老子甲27(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E5%BE%B3_12.png",
+        "source": "academia-sinica",
+        "description": "春秋事語54(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E5%BE%B3_13.png",
+        "source": "academia-sinica",
+        "description": "定縣竹簡61(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E5%BE%B3_14.png",
+        "source": "academia-sinica",
+        "description": "禮器碑(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E5%BE%B3_15.png",
+        "source": "academia-sinica",
+        "description": "孔宙碑(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“德，升也。从彳，聲。”",
+    "variants": [
+      {
+        "char": "德",
+        "parts": "彳𢛳",
+        "source": "academia-sinica"
+      },
+      {
+        "char": "𢛳",
+        "parts": "心",
+        "source": "academia-sinica"
+      },
+      {
+        "char": "",
+        "parts": "言𢛳",
+        "source": "academia-sinica"
+      }
+    ],
+    "gloss": "virtue",
+    "statistics": {
+      "hsk_level": 10,
+      "movie_word_count": 6,
+      "movie_word_count_percent": 1.7885612920280604e-07,
+      "movie_word_rank": 42485,
+      "movie_word_contexts": 4,
+      "movie_word_contexts_percent": 0.0006407176037161621,
+      "book_word_count": 7172,
+      "book_word_count_percent": 4.330902295439684e-07,
+      "book_word_rank": 42614,
+      "top_words": [
+        {
+          "word": "徳",
+          "share": 1,
+          "trad": "徳",
+          "gloss": "Japanese variant of 德"
+        }
+      ]
+    },
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed873132a",
+    "char": "徴",
+    "codepoint": "U+5FB4",
+    "stroke_count": 14,
+    "sources": [
+      "makemeahanzi",
+      "unicode"
+    ],
+    "images": [
+      {
+        "source": "makemeahanzi",
+        "description": "楷書",
+        "type": "Regular",
+        "era": "Modern",
+        "data": {
+          "strokes": [
+            "M 318 747 Q 318 755 302 770 Q 274 799 249 800 L 247 800 Q 235 798 239 778 Q 252 743 190 647 Q 161 602 120 549 Q 115 545 112 541 Q 102 529 110 527 Q 154 520 276 686 Q 277 690 279 694 Q 284 704 304 721 Q 319 736 318 747 Z",
+            "M 302 525 Q 300 535 285 547 Q 256 574 229 574 Q 214 573 221 552 Q 233 527 223 505 Q 172 373 50 225 Q 33 205 42 202 Q 69 194 182 337 L 209 372 Q 302 516 303 521 L 302 525 Z",
+            "M 182 337 Q 211 275 177 110 Q 156 41 196 -1 Q 212 -16 223 9 Q 235 48 235 87 Q 237 268 243 303 Q 248 321 245 328 Q 241 339 209 372 C 188 394 171 365 182 337 Z",
+            "M 515 745 Q 517 753 508 762 Q 488 780 456 788 Q 437 793 433 782 Q 429 774 435 766 Q 448 744 447 556 L 447 551 C 447 521 479 533 484 563 Q 515 737 515 745 Z",
+            "M 447 551 Q 416 541 390 529 Q 388 528 386 528 Q 379 529 381 539 Q 383 549 385 568 Q 392 641 384 655 L 380 659 Q 359 686 335 684 Q 328 680 331 667 Q 341 636 341 615 Q 342 594 341 576 Q 337 531 319 505 Q 312 494 314 486 Q 318 474 331 466 Q 351 456 359 465 Q 375 487 460 521 Q 528 548 545 546 C 575 548 580 586 551 580 Q 519 574 484 563 L 447 551 Z",
+            "M 545 546 Q 547 520 555 513 Q 561 505 566 512 Q 593 568 602 647 L 610 662 L 624 684 Q 628 690 623 703 L 588 735 Q 579 742 568 737 Q 563 737 563 725 Q 565 719 567 712 Q 576 675 551 580 L 545 546 Z",
+            "M 444 402 Q 473 414 506 421 Q 519 425 526 430 Q 537 437 531 445 Q 523 455 502 458 Q 476 461 406 429 Q 398 427 339 414 Q 333 412 329 410 Q 316 403 332 395 Q 354 384 385 388 Q 391 388 408 391 L 444 402 Z",
+            "M 461 280 L 504 294 Q 515 298 521 302 Q 531 308 527 318 Q 525 320 516 323 Q 488 335 463 323 L 414 303 Q 410 302 404 300 Q 368 288 346 284 Q 332 280 331 274.5 Q 330 269 346 264 Q 377 255 414 265 L 461 280 Z",
+            "M 459 173 Q 459 212 461 280 L 463 323 L 463 325 Q 463 394 449 400 Q 446 400 444 402 C 417 415 407 419 408 391 Q 408 386 414 303 L 414 265 Q 414 248 418 163 C 419 133 459 143 459 173 Z",
+            "M 576 200 Q 570 204 555 202 Q 543 200 459 173 L 418 163 L 318 137 Q 300 133 276 134 L 272 134 Q 267 133 263 130 Q 253 122 259 111 L 264 105 Q 271 97 314 71 Q 323 68 334 76 Q 349 86 423 120 Q 541 170 563 184 Q 574 192 576 200 Z",
+            "M 566 422 Q 570 422 573 424 Q 585 430 626 480 L 645 507 Q 654 521 662 534 Q 725 641 754 715 Q 764 742 778 759 Q 786 770 778 784 Q 775 790 763 800 Q 729 825 694 823 Q 676 819 686 798 Q 702 776 696 753 Q 691 729 684 704 Q 651 588 572 449 Q 566 439 564 433 Q 559 422 566 422 Z",
+            "M 626 480 Q 653 468 693 470 L 694 470 L 701 470 L 731 478 Q 903 531 904 533 Q 911 540 909 546 Q 908 553 895 560 Q 858 580 808 557 Q 727 521 645 507 C 615 502 598 491 626 480 Z",
+            "M 701 470 Q 701 466 706 459 Q 729 379 694 263 L 672 215 Q 616 146 591 123 Q 559 100 501 69 Q 487 61 493 59 Q 496 57 507 57 L 511 57 Q 561 56 635 102 Q 669 121 696 159 L 703 169 L 729 218 Q 760 288 772 370 Q 780 419 787 435 Q 794 441 788 452 Q 786 455 776 459 Q 744 476 731 478 C 702 487 693 490 701 470 Z",
+            "M 694 263 Q 668 294 647 324 Q 616 368 612 372 Q 600 387 574 396 Q 562 400 552 394 Q 544 382 568 367 Q 580 359 608 317 L 672 215 L 703 169 Q 792 45 830 35 Q 832 35 835 35 Q 849 33 961 35 Q 975 35 988 39 Q 998 46 986 55 Q 968 69 857 118 Q 785 153 729 218 L 694 263 Z"
+          ],
+          "medians": [
+            [
+              [
+                248,
+                791
+              ],
+              [
+                268,
+                765
+              ],
+              [
+                275,
+                742
+              ],
+              [
+                248,
+                690
+              ],
+              [
+                162,
+                575
+              ],
+              [
+                130,
+                543
+              ],
+              [
+                113,
+                534
+              ]
+            ],
+            [
+              [
+                231,
+                561
+              ],
+              [
+                251,
+                542
+              ],
+              [
+                262,
+                520
+              ],
+              [
+                242,
+                475
+              ],
+              [
+                160,
+                337
+              ],
+              [
+                82,
+                241
+              ],
+              [
+                45,
+                207
+              ]
+            ],
+            [
+              [
+                212,
+                360
+              ],
+              [
+                209,
+                344
+              ],
+              [
+                218,
+                316
+              ],
+              [
+                217,
+                224
+              ],
+              [
+                201,
+                58
+              ],
+              [
+                208,
+                9
+              ]
+            ],
+            [
+              [
+                446,
+                775
+              ],
+              [
+                478,
+                739
+              ],
+              [
+                469,
+                581
+              ],
+              [
+                454,
+                569
+              ],
+              [
+                453,
+                554
+              ]
+            ],
+            [
+              [
+                340,
+                675
+              ],
+              [
+                363,
+                642
+              ],
+              [
+                365,
+                581
+              ],
+              [
+                358,
+                509
+              ],
+              [
+                391,
+                509
+              ],
+              [
+                430,
+                528
+              ],
+              [
+                530,
+                560
+              ],
+              [
+                545,
+                575
+              ]
+            ],
+            [
+              [
+                575,
+                727
+              ],
+              [
+                596,
+                691
+              ],
+              [
+                561,
+                522
+              ]
+            ],
+            [
+              [
+                337,
+                404
+              ],
+              [
+                364,
+                402
+              ],
+              [
+                408,
+                410
+              ],
+              [
+                481,
+                436
+              ],
+              [
+                519,
+                441
+              ]
+            ],
+            [
+              [
+                337,
+                274
+              ],
+              [
+                390,
+                277
+              ],
+              [
+                484,
+                309
+              ],
+              [
+                518,
+                313
+              ]
+            ],
+            [
+              [
+                415,
+                389
+              ],
+              [
+                435,
+                372
+              ],
+              [
+                438,
+                337
+              ],
+              [
+                438,
+                190
+              ],
+              [
+                422,
+                175
+              ]
+            ],
+            [
+              [
+                270,
+                119
+              ],
+              [
+                317,
+                105
+              ],
+              [
+                329,
+                108
+              ],
+              [
+                571,
+                198
+              ]
+            ],
+            [
+              [
+                696,
+                808
+              ],
+              [
+                720,
+                793
+              ],
+              [
+                737,
+                770
+              ],
+              [
+                714,
+                697
+              ],
+              [
+                649,
+                552
+              ],
+              [
+                596,
+                462
+              ],
+              [
+                568,
+                428
+              ]
+            ],
+            [
+              [
+                633,
+                482
+              ],
+              [
+                734,
+                503
+              ],
+              [
+                850,
+                543
+              ],
+              [
+                898,
+                543
+              ]
+            ],
+            [
+              [
+                710,
+                467
+              ],
+              [
+                729,
+                456
+              ],
+              [
+                748,
+                432
+              ],
+              [
+                745,
+                384
+              ],
+              [
+                725,
+                276
+              ],
+              [
+                691,
+                199
+              ],
+              [
+                645,
+                141
+              ],
+              [
+                616,
+                115
+              ],
+              [
+                538,
+                73
+              ],
+              [
+                500,
+                61
+              ]
+            ],
+            [
+              [
+                560,
+                388
+              ],
+              [
+                596,
+                365
+              ],
+              [
+                731,
+                174
+              ],
+              [
+                789,
+                115
+              ],
+              [
+                841,
+                78
+              ],
+              [
+                984,
+                47
+              ]
+            ]
+          ]
+        },
+        "fragments": [
+          [
+            0,
+            1,
+            2
+          ],
+          [
+            3,
+            4,
+            5
+          ],
+          [
+            6,
+            7,
+            8,
+            9
+          ],
+          [
+            10,
+            11,
+            12,
+            13
+          ]
+        ]
+      }
+    ],
+    "gloss": "summon",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 391,
+      "book_word_count_percent": 2.361102617842884e-08,
+      "book_word_rank": 67099,
+      "top_words": [
+        {
+          "word": "徴",
+          "share": 0.5,
+          "trad": "徴",
+          "gloss": "Japanese variant of 徵|征"
+        }
+      ]
+    },
+    "hint": "To march 彳 on the king's 王 orders 攵",
+    "components": [
+      {
+        "type": [
+          "meaning"
+        ],
+        "character": "彳"
+      },
+      {
+        "type": [
+          "meaning"
+        ],
+        "character": "山"
+      },
+      {
+        "type": [
+          "meaning"
+        ],
+        "character": "王"
+      },
+      {
+        "type": [
+          "meaning"
+        ],
+        "character": "攵"
+      }
+    ],
+    "variants": null,
+    "comments": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afdde54193ed8731352",
+    "char": "応",
+    "codepoint": "U+5FDC",
+    "stroke_count": 7,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "should",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 1947,
+      "book_word_count_percent": 1.1757204084245767e-07,
+      "book_word_rank": 56315,
+      "top_words": [
+        {
+          "word": "応",
+          "share": 0.5,
+          "trad": "応",
+          "gloss": "Japanese variant of 應|应"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed8731bd2",
+    "char": "桜",
+    "codepoint": "U+685C",
+    "stroke_count": 10,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "cherry",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 136,
+      "book_word_count_percent": 8.212530844670901e-09,
+      "book_word_rank": 70850,
+      "top_words": [
+        {
+          "word": "桜",
+          "share": 0.5,
+          "trad": "桜",
+          "gloss": "Japanese variant of 櫻|樱[yīng]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed8731bd5",
+    "char": "桟",
+    "codepoint": "U+685F",
+    "stroke_count": 10,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "a crosspiece",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 20,
+      "book_word_count_percent": 1.2077251242163088e-09,
+      "book_word_rank": 74935,
+      "top_words": [
+        {
+          "word": "桟",
+          "share": 0.5,
+          "trad": "桟",
+          "gloss": "Japanese variant of 棧|栈[zhàn]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed8731c92",
+    "char": "検",
+    "codepoint": "U+691C",
+    "stroke_count": 12,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "check",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 477,
+      "book_word_count_percent": 2.8804244212558967e-08,
+      "book_word_rank": 66155,
+      "top_words": [
+        {
+          "word": "検",
+          "share": 0.5,
+          "trad": "検",
+          "gloss": "Japanese variant of 檢|检"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed8731cf3",
+    "char": "楽",
+    "codepoint": "U+697D",
+    "stroke_count": 13,
+    "sources": [
+      "academia-sinica",
+      "unicode"
+    ],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E6%A5%BD_0.png",
+        "source": "academia-sinica",
+        "description": "菁9.3(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E6%A5%BD_1.png",
+        "source": "academia-sinica",
+        "description": "京津3728(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E6%A5%BD_2.png",
+        "source": "academia-sinica",
+        "description": "樂作旅鼎(金)西周中期",
+        "type": "Bronze",
+        "era": "Mid Western Zhou (~900 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E6%A5%BD_3.png",
+        "source": "academia-sinica",
+        "description": "樂作旅鼎(金)西周中期",
+        "type": "Bronze",
+        "era": "Mid Western Zhou (~900 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E6%A5%BD_4.png",
+        "source": "academia-sinica",
+        "description": "𤼈鐘(金)西周中期",
+        "type": "Bronze",
+        "era": "Mid Western Zhou (~900 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E6%A5%BD_5.png",
+        "source": "academia-sinica",
+        "description": "沇兒鎛(金)春秋晚期",
+        "type": "Bronze",
+        "era": "Late Spring and Autumn (~500 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E6%A5%BD_6.png",
+        "source": "academia-sinica",
+        "description": "齊𩍂氏鐘(金)春秋晚期",
+        "type": "Bronze",
+        "era": "Late Spring and Autumn (~500 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E6%A5%BD_7.png",
+        "source": "academia-sinica",
+        "description": "樂子簠(金)春秋晚期",
+        "type": "Bronze",
+        "era": "Late Spring and Autumn (~500 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E6%A5%BD_8.png",
+        "source": "academia-sinica",
+        "description": "上樂朱鼎(金)戰國晚期",
+        "type": "Bronze",
+        "era": "Late Warring States (~250 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E6%A5%BD_9.png",
+        "source": "academia-sinica",
+        "description": "天卜(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E6%A5%BD_10.png",
+        "source": "academia-sinica",
+        "description": "天卜(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E6%A5%BD_11.png",
+        "source": "academia-sinica",
+        "description": "包2.261(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E6%A5%BD_12.png",
+        "source": "academia-sinica",
+        "description": "說文‧木部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E6%A5%BD_13.png",
+        "source": "academia-sinica",
+        "description": "睡.日乙92(隸)秦",
+        "type": "Clerical",
+        "era": "Qin dynasty (221-206 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E6%A5%BD_14.png",
+        "source": "academia-sinica",
+        "description": "泰山刻石(篆)秦",
+        "type": "Seal",
+        "era": "Qin dynasty (221-206 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E6%A5%BD_15.png",
+        "source": "academia-sinica",
+        "description": "禮器碑陰(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E6%A5%BD_16.png",
+        "source": "academia-sinica",
+        "description": "曹全碑(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“樂，五聲八音緫名。象鼓鞞。木，虡也。”",
+    "variants": [
+      {
+        "char": "樂",
+        "parts": "木",
+        "source": "academia-sinica"
+      },
+      {
+        "char": "濼",
+        "parts": "氵樂",
+        "source": "academia-sinica"
+      }
+    ],
+    "gloss": "happy",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 10729,
+      "book_word_count_percent": 6.47884142885839e-07,
+      "book_word_rank": 37561,
+      "top_words": [
+        {
+          "word": "楽",
+          "share": 0.5,
+          "trad": "楽",
+          "gloss": "Japanese variant of 樂|乐[lè]"
+        }
+      ]
+    },
+    "comments": [
+      {
+        "source": "academia-sinica",
+        "text": "羅振玉《增訂殷虛書契考釋》：“从絲坿木上，琴瑟之象也。或增白合集36796以象調弦之器……借濼為樂，亦从●。許君謂象鼓鞞，木，𧇽者，誤也。”"
+      }
+    ],
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed8731d4e",
+    "char": "様",
+    "codepoint": "U+69D8",
+    "stroke_count": 14,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "shape",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 9990,
+      "book_word_count_percent": 6.032586995460463e-07,
+      "book_word_rank": 38507,
+      "top_words": [
+        {
+          "word": "様",
+          "share": 0.5,
+          "trad": "様",
+          "gloss": "Japanese variant of 樣|样"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed8731ee5",
+    "char": "歯",
+    "codepoint": "U+6B6F",
+    "stroke_count": 12,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "teeth",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 274,
+      "book_word_count_percent": 1.654583420176343e-08,
+      "book_word_rank": 68559,
+      "top_words": [
+        {
+          "word": "歯",
+          "share": 0.5,
+          "trad": "歯",
+          "gloss": "Japanese variant of 齒|齿"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed8731ee9",
+    "char": "歳",
+    "codepoint": "U+6B73",
+    "stroke_count": 13,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "year",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 2567,
+      "book_word_count_percent": 1.5501151969316326e-07,
+      "book_word_rank": 53813,
+      "top_words": [
+        {
+          "word": "歳",
+          "share": 0.5,
+          "trad": "歳",
+          "gloss": "Japanese variant of 歲|岁"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed8731f44",
+    "char": "毎",
+    "codepoint": "U+6BCE",
+    "stroke_count": 6,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "every",
+    "statistics": {
+      "hsk_level": 10,
+      "movie_word_count": 8,
+      "movie_word_count_percent": 2.3847483893707474e-07,
+      "movie_word_rank": 38530,
+      "movie_word_contexts": 1,
+      "movie_word_contexts_percent": 0.00016017940092904052,
+      "book_word_count": 6170,
+      "book_word_count_percent": 3.725832008207313e-07,
+      "book_word_rank": 44451,
+      "top_words": [
+        {
+          "word": "毎",
+          "share": 1,
+          "trad": "毎",
+          "gloss": "Japanese variant of 每"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed8731f8d",
+    "char": "気",
+    "codepoint": "U+6C17",
+    "stroke_count": 6,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "air",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 13751,
+      "book_word_count_percent": 8.303714091549231e-07,
+      "book_word_rank": 34390,
+      "top_words": [
+        {
+          "word": "気",
+          "share": 0.5,
+          "trad": "気",
+          "gloss": "Japanese variant of 氣|气"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed8732616",
+    "char": "犠",
+    "codepoint": "U+72A0",
+    "stroke_count": 17,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "sacrifice",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 125,
+      "book_word_count_percent": 7.548282026351931e-09,
+      "book_word_rank": 71112,
+      "top_words": [
+        {
+          "word": "犠",
+          "share": 0.5,
+          "trad": "犠",
+          "gloss": "Japanese variant of 犧|牺"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed8732695",
+    "char": "猟",
+    "codepoint": "U+731F",
+    "stroke_count": 11,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "hunt",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 53,
+      "book_word_count_percent": 3.2004715791732187e-09,
+      "book_word_rank": 73263,
+      "top_words": [
+        {
+          "word": "猟",
+          "share": 0.5,
+          "trad": "猟",
+          "gloss": "Japanese variant of 獵|猎"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed87326d9",
+    "char": "獣",
+    "codepoint": "U+7363",
+    "stroke_count": 16,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "beast",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 400,
+      "book_word_count_percent": 2.4154502484326177e-08,
+      "book_word_rank": 66985,
+      "top_words": [
+        {
+          "word": "獣",
+          "share": 0.5,
+          "trad": "獣",
+          "gloss": "Japanese variant of 獸|兽"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed87317b8",
+    "char": "摂",
+    "codepoint": "U+6442",
+    "stroke_count": 13,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "take in",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 48,
+      "book_word_count_percent": 2.8985402981191413e-09,
+      "book_word_rank": 73459,
+      "top_words": [
+        {
+          "word": "摂",
+          "share": 0.5,
+          "trad": "摂",
+          "gloss": "Japanese variant of 攝|摄"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed87317f9",
+    "char": "撃",
+    "codepoint": "U+6483",
+    "stroke_count": 15,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "strike",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 2051,
+      "book_word_count_percent": 1.2385221148838248e-07,
+      "book_word_rank": 55888,
+      "top_words": [
+        {
+          "word": "撃",
+          "share": 0.5,
+          "trad": "撃",
+          "gloss": "Japanese variant of 擊|击[jī]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed8731904",
+    "char": "斎",
+    "codepoint": "U+658E",
+    "stroke_count": 11,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "vegetarian diet",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 865,
+      "book_word_count_percent": 5.223411162235536e-08,
+      "book_word_rank": 62693,
+      "top_words": [
+        {
+          "word": "斎",
+          "share": 0.5,
+          "trad": "斎",
+          "gloss": "Japanese variant of 齋|斋[zhāi]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed87319f7",
+    "char": "暁",
+    "codepoint": "U+6681",
+    "stroke_count": 12,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "dawn",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 500,
+      "book_word_count_percent": 3.0193128105407724e-08,
+      "book_word_rank": 65912,
+      "top_words": [
+        {
+          "word": "暁",
+          "share": 0.5,
+          "trad": "暁",
+          "gloss": "Japanese variant of 曉|晓"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed8731a1c",
+    "char": "暦",
+    "codepoint": "U+66A6",
+    "stroke_count": 14,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "calendar",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 218,
+      "book_word_count_percent": 1.3164203853957767e-08,
+      "book_word_rank": 69432,
+      "top_words": [
+        {
+          "word": "暦",
+          "share": 0.5,
+          "trad": "暦",
+          "gloss": "Japanese variant of 曆|历[lì]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed8731a73",
+    "char": "曽",
+    "codepoint": "U+66FD",
+    "stroke_count": 11,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "already",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 775,
+      "book_word_count_percent": 4.679934856338197e-08,
+      "book_word_rank": 63413,
+      "top_words": [
+        {
+          "word": "曽",
+          "share": 0.5,
+          "trad": "曽",
+          "gloss": "Japanese variant of 曾[céng]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed8731b71",
+    "char": "査",
+    "codepoint": "U+67FB",
+    "stroke_count": 9,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "investigate",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 1751,
+      "book_word_count_percent": 1.0573633462513784e-07,
+      "book_word_rank": 57253,
+      "top_words": [
+        {
+          "word": "査",
+          "share": 0.5,
+          "trad": "査",
+          "gloss": "Japanese variant of 查"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed8731b7a",
+    "char": "栄",
+    "codepoint": "U+6804",
+    "stroke_count": 9,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "glory",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 536,
+      "book_word_count_percent": 3.236703332899708e-08,
+      "book_word_rank": 65576,
+      "top_words": [
+        {
+          "word": "栄",
+          "share": 0.5,
+          "trad": "栄",
+          "gloss": "Japanese variant of 榮|荣[róng]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed8732db8",
+    "char": "穂",
+    "codepoint": "U+7A42",
+    "stroke_count": 15,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "ear of grain",
+    "statistics": {
+      "hsk_level": 10,
+      "movie_word_count": 11,
+      "movie_word_count_percent": 3.2790290353847776e-07,
+      "movie_word_rank": 34444,
+      "movie_word_contexts": 2,
+      "movie_word_contexts_percent": 0.00032035880185808104,
+      "book_word_count": 1238,
+      "book_word_count_percent": 7.475818518898952e-08,
+      "book_word_rank": 60168,
+      "top_words": [
+        {
+          "word": "穂",
+          "share": 1,
+          "trad": "穂",
+          "gloss": "Japanese variant of 穗[suì]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed8732dc5",
+    "char": "穏",
+    "codepoint": "U+7A4F",
+    "stroke_count": 16,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "calm",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 414,
+      "book_word_count_percent": 2.4999910071277594e-08,
+      "book_word_rank": 66821,
+      "top_words": [
+        {
+          "word": "穏",
+          "share": 0.5,
+          "trad": "穏",
+          "gloss": "Japanese variant of 穩|稳"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed8732dd9",
+    "char": "穣",
+    "codepoint": "U+7A63",
+    "stroke_count": 18,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "stalks of grain",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 16,
+      "book_word_count_percent": 9.66180099373047e-10,
+      "book_word_rank": 75330,
+      "top_words": [
+        {
+          "word": "穣",
+          "share": 0.5,
+          "trad": "穣",
+          "gloss": "Japanese variant of 穰[ráng]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed8732e52",
+    "char": "竜",
+    "codepoint": "U+7ADC",
+    "stroke_count": 10,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "dragon",
+    "statistics": {
+      "hsk_level": 10,
+      "movie_word_count": 7,
+      "movie_word_count_percent": 2.086654840699404e-07,
+      "movie_word_rank": 41003,
+      "movie_word_contexts": 1,
+      "movie_word_contexts_percent": 0.00016017940092904052,
+      "book_word_count": 1582,
+      "book_word_count_percent": 9.553105732551003e-08,
+      "book_word_rank": 58110,
+      "top_words": [
+        {
+          "word": "竜",
+          "share": 1,
+          "trad": "竜",
+          "gloss": "Japanese variant of 龍|龙"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed87333ea",
+    "char": "聴",
+    "codepoint": "U+8074",
+    "stroke_count": 17,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "hear",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 1398,
+      "book_word_count_percent": 8.441998618271999e-08,
+      "book_word_rank": 59186,
+      "book_char_count": 6,
+      "book_char_count_percent": 3.1007108079791915e-08,
+      "book_char_rank": 7458,
+      "top_words": [
+        {
+          "word": "聴",
+          "share": 0.5,
+          "trad": "聴",
+          "gloss": "Japanese variant of 聽|听"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed87334a9",
+    "char": "脳",
+    "codepoint": "U+8133",
+    "stroke_count": 11,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "brain",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 387,
+      "book_word_count_percent": 2.3369481153585576e-08,
+      "book_word_rank": 67145,
+      "book_char_count": 1,
+      "book_char_count_percent": 5.167851346631985e-09,
+      "book_char_rank": 9478,
+      "top_words": [
+        {
+          "word": "脳",
+          "share": 0.5,
+          "trad": "脳",
+          "gloss": "Japanese variant of 腦|脑"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed8733549",
+    "char": "臓",
+    "codepoint": "U+81D3",
+    "stroke_count": 18,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "internal organs",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 270,
+      "book_word_count_percent": 1.630428917692017e-08,
+      "book_word_rank": 68615,
+      "book_char_count": 5,
+      "book_char_count_percent": 2.583925673315993e-08,
+      "book_char_rank": 7648,
+      "top_words": [
+        {
+          "word": "臓",
+          "share": 0.5,
+          "trad": "臓",
+          "gloss": "Japanese variant of 臟|脏"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed8733584",
+    "char": "舎",
+    "codepoint": "U+820E",
+    "stroke_count": 8,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "house",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 399,
+      "book_word_count_percent": 2.4094116228115364e-08,
+      "book_word_rank": 66991,
+      "top_words": [
+        {
+          "word": "舎",
+          "share": 0.5,
+          "trad": "舎",
+          "gloss": "Japanese variant of 舍"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed873358d",
+    "char": "舗",
+    "codepoint": "U+8217",
+    "stroke_count": 15,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "store",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 155,
+      "book_word_count_percent": 9.359869712676395e-09,
+      "book_word_rank": 70498,
+      "top_words": [
+        {
+          "word": "舗",
+          "share": 0.5,
+          "trad": "舗",
+          "gloss": "Japanese variant of 舖|铺"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed87336ce",
+    "char": "荘",
+    "codepoint": "U+8358",
+    "stroke_count": 9,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "village",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 824,
+      "book_word_count_percent": 4.975827511771193e-08,
+      "book_word_rank": 63011,
+      "book_char_count": 2,
+      "book_char_count_percent": 1.033570269326397e-08,
+      "book_char_rank": 8802,
+      "top_words": [
+        {
+          "word": "荘",
+          "share": 0.5,
+          "trad": "荘",
+          "gloss": "Japanese variant of 莊|庄"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed8732018",
+    "char": "沢",
+    "codepoint": "U+6CA2",
+    "stroke_count": 7,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "marsh",
+    "statistics": {
+      "hsk_level": 10,
+      "movie_word_count": 18,
+      "movie_word_count_percent": 5.365683876084181e-07,
+      "movie_word_rank": 27998,
+      "movie_word_contexts": 5,
+      "movie_word_contexts_percent": 0.0008008970046452026,
+      "book_word_count": 3964,
+      "book_word_count_percent": 2.393711196196724e-07,
+      "book_word_rank": 49386,
+      "top_words": [
+        {
+          "word": "沢",
+          "share": 1,
+          "trad": "沢",
+          "gloss": "Japanese variant of 澤|泽"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed87320ba",
+    "char": "浄",
+    "codepoint": "U+6D44",
+    "stroke_count": 9,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "pure",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 435,
+      "book_word_count_percent": 2.626802145170472e-08,
+      "book_word_rank": 66595,
+      "top_words": [
+        {
+          "word": "浄",
+          "share": 0.5,
+          "trad": "浄",
+          "gloss": "Japanese variant of 淨|净"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed873210f",
+    "char": "涙",
+    "codepoint": "U+6D99",
+    "stroke_count": 10,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "tears",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 2766,
+      "book_word_count_percent": 1.6702838467911552e-07,
+      "book_word_rank": 53092,
+      "top_words": [
+        {
+          "word": "涙",
+          "share": 0.5,
+          "trad": "涙",
+          "gloss": "Japanese variant of 淚|泪[lèi]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed873217d",
+    "char": "渇",
+    "codepoint": "U+6E07",
+    "stroke_count": 11,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "thirsty",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 82,
+      "book_word_count_percent": 4.951673009286866e-09,
+      "book_word_rank": 72226,
+      "top_words": [
+        {
+          "word": "渇",
+          "share": 0.5,
+          "trad": "渇",
+          "gloss": "Japanese variant of 渴"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed873217e",
+    "char": "済",
+    "codepoint": "U+6E08",
+    "stroke_count": 11,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "help",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 622,
+      "book_word_count_percent": 3.7560251363127204e-08,
+      "book_word_rank": 64776,
+      "top_words": [
+        {
+          "word": "済",
+          "share": 0.5,
+          "trad": "済",
+          "gloss": "Japanese variant of 濟|济"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed873217f",
+    "char": "渉",
+    "codepoint": "U+6E09",
+    "stroke_count": 11,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "ford stream",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 511,
+      "book_word_count_percent": 3.0857376923726695e-08,
+      "book_word_rank": 65827,
+      "top_words": [
+        {
+          "word": "渉",
+          "share": 0.5,
+          "trad": "渉",
+          "gloss": "Japanese variant of 涉[shè]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed8732181",
+    "char": "渋",
+    "codepoint": "U+6E0B",
+    "stroke_count": 11,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "astringent",
+    "statistics": {
+      "hsk_level": 10,
+      "movie_word_count": 14,
+      "movie_word_count_percent": 4.173309681398808e-07,
+      "movie_word_rank": 31030,
+      "movie_word_contexts": 2,
+      "movie_word_contexts_percent": 0.00032035880185808104,
+      "book_word_count": 1212,
+      "book_word_count_percent": 7.318814252750832e-08,
+      "book_word_rank": 60334,
+      "top_words": [
+        {
+          "word": "渋",
+          "share": 1,
+          "trad": "渋",
+          "gloss": "Japanese variant of 澀|涩[sè]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed8732189",
+    "char": "渓",
+    "codepoint": "U+6E13",
+    "stroke_count": 11,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "mountain stream",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 80,
+      "book_word_count_percent": 4.830900496865235e-09,
+      "book_word_rank": 72290,
+      "top_words": [
+        {
+          "word": "渓",
+          "share": 0.5,
+          "trad": "渓",
+          "gloss": "Japanese variant of 溪[xī]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed87321f6",
+    "char": "満",
+    "codepoint": "U+6E80",
+    "stroke_count": 12,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "fullness",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 2041,
+      "book_word_count_percent": 1.2324834892627432e-07,
+      "book_word_rank": 55944,
+      "top_words": [
+        {
+          "word": "満",
+          "share": 0.5,
+          "trad": "満",
+          "gloss": "Japanese variant of 滿|满"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed8732253",
+    "char": "滝",
+    "codepoint": "U+6EDD",
+    "stroke_count": 13,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "onomatopoeic for the sound of falling rain",
+    "statistics": {
+      "hsk_level": 10,
+      "movie_word_count": 2,
+      "movie_word_count_percent": 5.961870973426868e-08,
+      "movie_word_rank": 64920,
+      "movie_word_contexts": 2,
+      "movie_word_contexts_percent": 0.00032035880185808104,
+      "book_word_count": 673,
+      "book_word_count_percent": 4.063995042987879e-08,
+      "book_word_rank": 64316,
+      "top_words": [
+        {
+          "word": "滝",
+          "share": 1,
+          "trad": "滝",
+          "gloss": "Japanese variant of 瀧|泷[lóng]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed87323a2",
+    "char": "瀬",
+    "codepoint": "U+702C",
+    "stroke_count": 19,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "swift current",
+    "statistics": {
+      "hsk_level": 10,
+      "movie_word_count": 2,
+      "movie_word_count_percent": 5.961870973426868e-08,
+      "movie_word_rank": 62732,
+      "movie_word_contexts": 2,
+      "movie_word_contexts_percent": 0.00032035880185808104,
+      "book_word_count": 1576,
+      "book_word_count_percent": 9.516873978824514e-08,
+      "book_word_rank": 58139,
+      "top_words": [
+        {
+          "word": "瀬",
+          "share": 1,
+          "trad": "瀬",
+          "gloss": "Japanese variant of 瀨|濑"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed8732899",
+    "char": "産",
+    "codepoint": "U+7523",
+    "stroke_count": 11,
+    "sources": [
+      "makemeahanzi",
+      "unicode"
+    ],
+    "images": [
+      {
+        "source": "makemeahanzi",
+        "description": "楷書",
+        "type": "Regular",
+        "era": "Modern",
+        "data": {
+          "strokes": [
+            "M 355 815 Q 377 799 402 779 Q 415 769 429 771 Q 438 772 441 784 Q 444 797 433 822 Q 427 838 401 846 Q 341 864 328 855 Q 324 851 326 840 Q 330 830 355 815 Z",
+            "M 440 709 Q 486 718 526 725 Q 535 724 543 736 Q 543 746 522 755 Q 489 771 411 743 Q 396 740 382 735 Q 364 731 214 698 Q 189 694 209 679 Q 240 661 275 668 Q 335 686 416 703 L 440 709 Z",
+            "M 430 617 Q 448 647 466 667 Q 473 673 470 681 Q 458 699 440 709 C 418 723 418 723 416 703 Q 415 670 387 625 L 367 599 Q 331 560 262 517 Q 255 513 260 509 Q 279 503 341 534 Q 365 547 404 585 L 430 617 Z",
+            "M 404 585 Q 435 575 467 559 Q 480 552 489 554 Q 493 555 496 562 Q 499 572 483 592 Q 467 611 430 617 L 387 625 Q 338 632 310 634 Q 304 635 306 627 Q 306 624 367 599 L 404 585 Z",
+            "M 240 434 Q 250 434 259 437 Q 371 470 534 499 Q 543 498 550 509 Q 551 519 531 527 Q 507 545 426 517 Q 407 513 389 506 Q 368 500 224 471 C 195 465 210 432 240 434 Z",
+            "M 224 471 Q 190 495 175 489 Q 165 483 170 472 Q 209 397 142 182 L 140 176 Q 113 107 54 15 Q 50 9 48 4 Q 45 -6 55 -4 Q 85 2 145 97 Q 152 110 161 125 Q 209 230 234 407 Q 234 419 240 434 C 247 456 247 456 224 471 Z",
+            "M 319 306 Q 332 333 344 353 Q 350 363 339 372 Q 300 391 288 387 Q 281 384 283 374 Q 296 319 243 236 Q 236 226 232 217 Q 228 205 237 210 Q 268 219 311 289 L 319 306 Z",
+            "M 447 298 Q 474 307 506 314 Q 533 321 536 325 Q 543 332 539 339 Q 532 348 509 352 Q 482 356 449 340 L 404 324 Q 400 324 399 323 Q 363 313 321 307 Q 318 307 319 306 C 290 299 290 299 311 289 Q 347 271 395 285 Q 398 286 404 286 L 447 298 Z",
+            "M 445 195 Q 470 204 499 211 Q 524 218 529 223 Q 535 230 531 235 Q 525 244 503 248 Q 473 252 445 234 L 405 220 Q 399 219 397 218 Q 363 208 320 201 Q 293 194 313 183 Q 338 173 401 184 Q 402 185 406 185 L 445 195 Z",
+            "M 443 119 Q 444 159 445 195 L 445 234 Q 446 267 447 298 L 449 340 Q 449 376 456 400 Q 463 415 454 424 Q 429 443 407 449 Q 397 450 386 443 Q 382 437 387 429 Q 402 407 403 338 Q 403 332 404 324 L 404 286 Q 404 255 405 220 L 406 185 Q 406 148 408 107 C 409 77 442 89 443 119 Z",
+            "M 408 107 Q 338 86 267 63 Q 246 56 213 56 Q 200 55 199 45 Q 198 32 206 25 Q 228 10 260 -7 Q 270 -10 281 -2 Q 419 68 557 140 Q 570 147 570 156 Q 564 160 553 158 Q 499 139 443 119 L 408 107 Z"
+          ],
+          "medians": [
+            [
+              [
+                335,
+                846
+              ],
+              [
+                398,
+                818
+              ],
+              [
+                427,
+                785
+              ]
+            ],
+            [
+              [
+                210,
+                689
+              ],
+              [
+                265,
+                687
+              ],
+              [
+                465,
+                737
+              ],
+              [
+                533,
+                737
+              ]
+            ],
+            [
+              [
+                424,
+                697
+              ],
+              [
+                439,
+                677
+              ],
+              [
+                385,
+                592
+              ],
+              [
+                326,
+                541
+              ],
+              [
+                264,
+                512
+              ]
+            ],
+            [
+              [
+                310,
+                629
+              ],
+              [
+                447,
+                592
+              ],
+              [
+                484,
+                565
+              ]
+            ],
+            [
+              [
+                237,
+                469
+              ],
+              [
+                252,
+                456
+              ],
+              [
+                463,
+                508
+              ],
+              [
+                514,
+                515
+              ],
+              [
+                540,
+                510
+              ]
+            ],
+            [
+              [
+                180,
+                478
+              ],
+              [
+                204,
+                455
+              ],
+              [
+                210,
+                416
+              ],
+              [
+                201,
+                331
+              ],
+              [
+                180,
+                239
+              ],
+              [
+                160,
+                173
+              ],
+              [
+                125,
+                96
+              ],
+              [
+                83,
+                33
+              ],
+              [
+                56,
+                4
+              ]
+            ],
+            [
+              [
+                293,
+                378
+              ],
+              [
+                313,
+                354
+              ],
+              [
+                304,
+                322
+              ],
+              [
+                281,
+                271
+              ],
+              [
+                239,
+                217
+              ]
+            ],
+            [
+              [
+                319,
+                290
+              ],
+              [
+                328,
+                296
+              ],
+              [
+                357,
+                295
+              ],
+              [
+                405,
+                305
+              ],
+              [
+                490,
+                332
+              ],
+              [
+                529,
+                334
+              ]
+            ],
+            [
+              [
+                315,
+                193
+              ],
+              [
+                389,
+                197
+              ],
+              [
+                472,
+                225
+              ],
+              [
+                520,
+                231
+              ]
+            ],
+            [
+              [
+                395,
+                437
+              ],
+              [
+                427,
+                407
+              ],
+              [
+                426,
+                143
+              ],
+              [
+                412,
+                115
+              ]
+            ],
+            [
+              [
+                212,
+                43
+              ],
+              [
+                265,
+                28
+              ],
+              [
+                565,
+                153
+              ]
+            ]
+          ]
+        },
+        "fragments": [
+          [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          [
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        ]
+      }
+    ],
+    "gloss": "give birth",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 3458,
+      "book_word_count_percent": 2.0881567397699982e-07,
+      "book_word_rank": 50811,
+      "top_words": [
+        {
+          "word": "産",
+          "share": 0.5,
+          "trad": "産",
+          "gloss": "Japanese variant of 產|产"
+        }
+      ]
+    },
+    "components": [
+      {
+        "type": [
+          "sound"
+        ],
+        "character": "产"
+      },
+      {
+        "type": [
+          "meaning"
+        ],
+        "character": "生",
+        "hint": "birth"
+      }
+    ],
+    "variants": null,
+    "comments": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed873295f",
+    "char": "痩",
+    "codepoint": "U+75E9",
+    "stroke_count": 12,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "thin",
+    "statistics": {
+      "hsk_level": 10,
+      "movie_word_count": 4,
+      "movie_word_count_percent": 1.1923741946853737e-07,
+      "movie_word_rank": 50632,
+      "movie_word_contexts": 3,
+      "movie_word_contexts_percent": 0.0004805382027871216,
+      "book_word_count": 1468,
+      "book_word_count_percent": 8.864702411747707e-08,
+      "book_word_rank": 58782,
+      "top_words": [
+        {
+          "word": "痩",
+          "share": 1,
+          "trad": "痩",
+          "gloss": "Japanese variant of 瘦[shòu]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed87329f0",
+    "char": "発",
+    "codepoint": "U+767A",
+    "stroke_count": 9,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "issue",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 8279,
+      "book_word_count_percent": 4.999378151693411e-07,
+      "book_word_rank": 40845,
+      "top_words": [
+        {
+          "word": "発",
+          "share": 0.5,
+          "trad": "発",
+          "gloss": "Japanese variant of 發|发"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed87343bb",
+    "char": "遅",
+    "codepoint": "U+9045",
+    "stroke_count": 12,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "late",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 952,
+      "book_word_count_percent": 5.74877159126963e-08,
+      "book_word_rank": 62080,
+      "top_words": [
+        {
+          "word": "遅",
+          "share": 0.5,
+          "trad": "遅",
+          "gloss": "Japanese variant of 遲|迟"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed873446d",
+    "char": "郷",
+    "codepoint": "U+90F7",
+    "stroke_count": 10,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "country",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 761,
+      "book_word_count_percent": 4.5953940976430554e-08,
+      "book_word_rank": 63529,
+      "top_words": [
+        {
+          "word": "郷",
+          "share": 0.5,
+          "trad": "郷",
+          "gloss": "Japanese variant of 鄉|乡"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed87344ca",
+    "char": "酔",
+    "codepoint": "U+9154",
+    "stroke_count": 11,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "intoxicated",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 561,
+      "book_word_count_percent": 3.387668973426747e-08,
+      "book_word_rank": 65321,
+      "top_words": [
+        {
+          "word": "酔",
+          "share": 0.5,
+          "trad": "酔",
+          "gloss": "Japanese variant of 醉"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed873451a",
+    "char": "醤",
+    "codepoint": "U+91A4",
+    "stroke_count": 17,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "any jam-like or paste-like food",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 454,
+      "book_word_count_percent": 2.7415360319710214e-08,
+      "book_word_rank": 66401,
+      "top_words": [
+        {
+          "word": "醤",
+          "share": 0.5,
+          "trad": "醤",
+          "gloss": "Japanese variant of 醬|酱[jiàng]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed873452e",
+    "char": "醸",
+    "codepoint": "U+91B8",
+    "stroke_count": 20,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "brew",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 128,
+      "book_word_count_percent": 7.729440794984376e-09,
+      "book_word_rank": 71037,
+      "top_words": [
+        {
+          "word": "醸",
+          "share": 0.5,
+          "trad": "醸",
+          "gloss": "Japanese variant of 釀|酿"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed873453e",
+    "char": "釈",
+    "codepoint": "U+91C8",
+    "stroke_count": 11,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "interprete",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 95,
+      "book_word_count_percent": 5.736694340027467e-09,
+      "book_word_rank": 71885,
+      "top_words": [
+        {
+          "word": "釈",
+          "share": 0.5,
+          "trad": "釈",
+          "gloss": "Japanese variant of 釋|释"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed87345e7",
+    "char": "鉱",
+    "codepoint": "U+9271",
+    "stroke_count": 13,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "mine",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 81,
+      "book_word_count_percent": 4.891286753076051e-09,
+      "book_word_rank": 72243,
+      "top_words": [
+        {
+          "word": "鉱",
+          "share": 0.5,
+          "trad": "鉱",
+          "gloss": "Japanese variant of 礦|矿"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed8734623",
+    "char": "銭",
+    "codepoint": "U+92AD",
+    "stroke_count": 14,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "money",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 946,
+      "book_word_count_percent": 5.712539837543141e-08,
+      "book_word_rank": 62107,
+      "top_words": [
+        {
+          "word": "銭",
+          "share": 0.5,
+          "trad": "銭",
+          "gloss": "Japanese variant of 錢|钱"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed8734663",
+    "char": "鋭",
+    "codepoint": "U+92ED",
+    "stroke_count": 15,
+    "sources": [
+      "unicode",
+      "baxter-sagart"
+    ],
+    "gloss": "sharp",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 576,
+      "book_word_count_percent": 3.47824835774297e-08,
+      "book_word_rank": 65185,
+      "book_char_count": 2,
+      "book_char_count_percent": 1.033570269326397e-08,
+      "book_char_rank": 8693,
+      "top_words": [
+        {
+          "word": "鋭",
+          "share": 0.5,
+          "trad": "鋭",
+          "gloss": "Japanese variant of 銳|锐"
+        }
+      ]
+    },
+    "old_pronunciations": [
+      {
+        "pinyin": "ruì",
+        "MC": "ywejH",
+        "OC": "*lot-s ",
+        "gloss": "sharp",
+        "source": "baxter-sagart"
+      }
+    ],
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed8734669",
+    "char": "鋳",
+    "codepoint": "U+92F3",
+    "stroke_count": 15,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "melt",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 11,
+      "book_word_count_percent": 6.642488183189699e-10,
+      "book_word_rank": 75862,
+      "top_words": [
+        {
+          "word": "鋳",
+          "share": 0.5,
+          "trad": "鋳",
+          "gloss": "Japanese variant of 鑄|铸"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed87346a2",
+    "char": "錬",
+    "codepoint": "U+932C",
+    "stroke_count": 16,
+    "sources": [
+      "academia-sinica",
+      "unicode"
+    ],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E9%8C%AC_0.png",
+        "source": "academia-sinica",
+        "description": "𠭯鐘(金)西周中期",
+        "type": "Bronze",
+        "era": "Mid Western Zhou (~900 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E9%8C%AC_1.png",
+        "source": "academia-sinica",
+        "description": "𠭯鐘(金)西周中期",
+        "type": "Bronze",
+        "era": "Mid Western Zhou (~900 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E9%8C%AC_2.png",
+        "source": "academia-sinica",
+        "description": "柞鐘(金)西周晚期",
+        "type": "Bronze",
+        "era": "Late Western Zhou (~800 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E9%8C%AC_3.png",
+        "source": "academia-sinica",
+        "description": "大克鼎(金)西周晚期",
+        "type": "Bronze",
+        "era": "Late Western Zhou (~800 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E9%8C%AC_4.png",
+        "source": "academia-sinica",
+        "description": "多友鼎(金)西周晚期",
+        "type": "Bronze",
+        "era": "Late Western Zhou (~800 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E9%8C%AC_5.png",
+        "source": "academia-sinica",
+        "description": "兮仲鐘(金)西周晚期",
+        "type": "Bronze",
+        "era": "Late Western Zhou (~800 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E9%8C%AC_6.png",
+        "source": "academia-sinica",
+        "description": "己侯卜虎鐘(金)西周晚期",
+        "type": "Bronze",
+        "era": "Late Western Zhou (~800 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E9%8C%AC_7.png",
+        "source": "academia-sinica",
+        "description": "昆疕王鐘(金)西周晚期",
+        "type": "Bronze",
+        "era": "Late Western Zhou (~800 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E9%8C%AC_8.png",
+        "source": "academia-sinica",
+        "description": "虢叔旅鐘(金)西周晚期",
+        "type": "Bronze",
+        "era": "Late Western Zhou (~800 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E9%8C%AC_9.png",
+        "source": "academia-sinica",
+        "description": "虢叔旅鐘(金)西周晚期",
+        "type": "Bronze",
+        "era": "Late Western Zhou (~800 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E9%8C%AC_10.png",
+        "source": "academia-sinica",
+        "description": "魯邍鐘(金)西周晚期",
+        "type": "Bronze",
+        "era": "Late Western Zhou (~800 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E9%8C%AC_11.png",
+        "source": "academia-sinica",
+        "description": "叔尃父盨(金)西周晚期",
+        "type": "Bronze",
+        "era": "Late Western Zhou (~800 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E9%8C%AC_12.png",
+        "source": "academia-sinica",
+        "description": "叔尃父盨(金)西周晚期",
+        "type": "Bronze",
+        "era": "Late Western Zhou (~800 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E9%8C%AC_13.png",
+        "source": "academia-sinica",
+        "description": "秦公鎛(金)春秋早期",
+        "type": "Bronze",
+        "era": "Qin dynasty (221-206 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E9%8C%AC_14.png",
+        "source": "academia-sinica",
+        "description": "沇兒鎛(金)春秋晚期",
+        "type": "Bronze",
+        "era": "Late Spring and Autumn (~500 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E9%8C%AC_15.png",
+        "source": "academia-sinica",
+        "description": "楚王𩑟鐘(金)春秋晚期",
+        "type": "Bronze",
+        "era": "Late Spring and Autumn (~500 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E9%8C%AC_16.png",
+        "source": "academia-sinica",
+        "description": "叔之仲子平鐘(金)春秋晚期",
+        "type": "Bronze",
+        "era": "Late Spring and Autumn (~500 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E9%8C%AC_17.png",
+        "source": "academia-sinica",
+        "description": "自作其走鐘(金)春秋",
+        "type": "Bronze",
+        "era": "Spring and Autumn (771-476 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E9%8C%AC_18.png",
+        "source": "academia-sinica",
+        "description": "𠫑氏鐘(金)戰國早期",
+        "type": "Bronze",
+        "era": "Early Warring States (~400 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E9%8C%AC_19.png",
+        "source": "academia-sinica",
+        "description": "雨21.1(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E9%8C%AC_20.png",
+        "source": "academia-sinica",
+        "description": "上(1).孔.14(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E9%8C%AC_21.png",
+        "source": "academia-sinica",
+        "description": "曾54(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E9%8C%AC_22.png",
+        "source": "academia-sinica",
+        "description": "說文‧金部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E9%8C%AC_23.png",
+        "source": "academia-sinica",
+        "description": "說文或體",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E9%8C%AC_24.png",
+        "source": "academia-sinica",
+        "description": "睡虎地簡16.125(隸)秦",
+        "type": "Clerical",
+        "era": "Qin dynasty (221-206 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E9%8C%AC_25.png",
+        "source": "academia-sinica",
+        "description": "老子甲後427(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E9%8C%AC_26.png",
+        "source": "academia-sinica",
+        "description": "祝阿侯鍾(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E9%8C%AC_27.png",
+        "source": "academia-sinica",
+        "description": "平都主家鍾(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“鐘，樂鐘也。秋分之音，物穜成。从金，童聲。古者垂作鐘。銿，鐘或从甬。”",
+    "variants": [
+      {
+        "char": "鐘",
+        "parts": "金童",
+        "source": "academia-sinica"
+      },
+      {
+        "char": "銿",
+        "parts": "金甬",
+        "source": "academia-sinica"
+      },
+      {
+        "char": "鍾",
+        "parts": "金重",
+        "source": "academia-sinica"
+      },
+      {
+        "char": "錬",
+        "parts": "金東",
+        "source": "academia-sinica"
+      }
+    ],
+    "gloss": "smelt metals",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 355,
+      "book_word_count_percent": 2.1437120954839483e-08,
+      "book_word_rank": 67521,
+      "top_words": [
+        {
+          "word": "錬",
+          "share": 0.5,
+          "trad": "錬",
+          "gloss": "Japanese variant of 煉|炼[liàn]"
+        }
+      ]
+    },
+    "comments": [
+      {
+        "source": "academia-sinica",
+        "text": "段玉裁改“物穜成”作“萬物穜成”。"
+      }
+    ],
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed87346a8",
+    "char": "録",
+    "codepoint": "U+9332",
+    "stroke_count": 16,
+    "sources": [
+      "makemeahanzi",
+      "unicode"
+    ],
+    "images": [
+      {
+        "source": "makemeahanzi",
+        "description": "楷書",
+        "type": "Regular",
+        "era": "Modern",
+        "data": {
+          "strokes": [
+            "M 200 363 Q 257 427 323 528 L 333 543 Q 354 576 355 579 Q 354 588 342 598 Q 314 623 283 619 Q 276 618 277 606 Q 293 545 175 393 Q 171 389 166 383 Q 132 343 45 267 Q 38 263 47 260 Q 107 270 193 356 L 200 363 Z",
+            "M 323 528 Q 326 521 347 506 Q 375 487 407 461 Q 417 451 430 453 Q 437 454 441 464 Q 444 476 436 498 Q 424 528 341 543 Q 337 544 333 543 C 314 541 314 541 323 528 Z",
+            "M 297 348 Q 387 372 388 373 Q 395 380 391 387 Q 384 396 361 400 Q 348 403 267 377 Q 240 370 209 366 Q 202 365 200 363 C 191 359 191 359 193 356 Q 193 353 202 348 Q 226 336 262 338 L 297 348 Z",
+            "M 317 259 Q 339 266 366 271 Q 391 278 396 283 Q 403 289 399 295 Q 393 304 371 308 Q 347 312 319 299 L 272 282 Q 221 270 185 264 Q 157 258 178 247 Q 212 232 258 245 Q 264 248 273 248 L 317 259 Z",
+            "M 311 109 Q 314 191 317 259 L 319 299 Q 320 303 320 307 Q 326 322 318 330 Q 308 340 297 348 C 273 366 254 367 262 338 Q 271 305 272 282 L 273 248 Q 273 199 274 100 C 274 70 310 79 311 109 Z",
+            "M 169 180 Q 196 143 222 127 Q 232 124 240 133 Q 246 142 245 154 Q 238 184 180 208 Q 168 212 161 210 Q 157 209 158 200 Q 158 193 169 180 Z",
+            "M 383 225 Q 374 203 354 168 Q 351 164 355 160 Q 359 159 364 163 Q 409 203 430 219 Q 440 223 437 230 Q 433 240 418 249 Q 405 259 391 257 Q 382 256 384 244 Q 387 237 383 225 Z",
+            "M 274 100 Q 219 90 164 77 Q 145 73 117 76 Q 104 75 102 66 Q 99 53 108 45 Q 127 29 158 8 Q 168 5 180 12 Q 219 37 380 96 Q 402 105 420 116 Q 433 123 434 131 Q 430 137 417 135 Q 366 122 311 109 L 274 100 Z",
+            "M 612 567 Q 619 577 628 588 Q 638 603 636 609 Q 635 619 601 643 Q 588 653 573 650 Q 564 647 570 635 Q 583 604 537 513 Q 528 492 507 472 Q 494 460 495 450 Q 499 435 512 422 Q 521 413 530 420 Q 564 439 676 462 L 690 464 C 720 468 728 488 698 485 Q 629 478 572 470 Q 547 469 559 485 Q 578 519 598 547 L 612 567 Z",
+            "M 693 412 Q 777 529 807 552 Q 823 562 811 574 Q 798 584 764 602 Q 755 605 678 581 Q 617 569 612 567 C 583 560 569 556 598 547 Q 605 544 618 542 Q 628 541 705 554 Q 714 555 717 552 Q 721 549 717 539 Q 707 511 698 485 L 690 464 Q 678 436 670 415 Q 669 411 666 407 C 653 380 675 388 693 412 Z",
+            "M 631 371 Q 637 377 735 383 Q 795 389 895 388 Q 911 388 915 396 Q 919 405 906 416 Q 857 449 801 433 Q 756 424 693 412 L 666 407 Q 660 408 655 406 Q 555 391 438 374 Q 420 373 434 359 Q 446 347 460 343 Q 478 339 491 343 Q 539 356 593 366 L 631 371 Z",
+            "M 660 233 Q 663 345 664 346 Q 657 356 631 371 C 605 387 586 395 593 366 Q 608 303 609 299 Q 609 298 609 294 Q 613 39 599 20 Q 589 14 564 21 Q 546 27 524 31 Q 514 35 513 28 Q 514 21 523 13 Q 575 -33 609 -69 Q 619 -78 631 -63 Q 668 -15 664 54 Q 660 189 659 204 L 660 233 Z",
+            "M 474 279 Q 507 240 533 226 Q 545 223 552 233 Q 556 243 556 256 Q 550 283 485 309 Q 472 313 465 310 Q 461 309 462 300 Q 463 291 474 279 Z",
+            "M 432 100 Q 422 96 424 87 Q 425 77 434 73 Q 456 67 485 61 Q 492 61 500 70 Q 512 92 584 163 Q 594 173 601 184 Q 608 193 607 200 Q 601 203 593 197 Q 535 157 459 110 Q 449 104 432 100 Z",
+            "M 706 202 Q 776 248 811 267 Q 826 271 823 280 Q 819 293 802 310 Q 786 326 767 327 Q 754 327 755 311 Q 756 290 691 212 C 672 189 681 186 706 202 Z",
+            "M 691 212 Q 672 225 660 233 C 635 250 638 225 659 204 Q 723 140 794 80 Q 816 62 850 64 Q 911 67 974 86 Q 990 90 991 94 Q 992 101 979 104 Q 939 114 894 122 Q 813 138 706 202 L 691 212 Z"
+          ],
+          "medians": [
+            [
+              [
+                291,
+                608
+              ],
+              [
+                308,
+                587
+              ],
+              [
+                311,
+                570
+              ],
+              [
+                279,
+                504
+              ],
+              [
+                234,
+                436
+              ],
+              [
+                159,
+                346
+              ],
+              [
+                83,
+                284
+              ],
+              [
+                54,
+                272
+              ],
+              [
+                52,
+                265
+              ]
+            ],
+            [
+              [
+                330,
+                529
+              ],
+              [
+                395,
+                502
+              ],
+              [
+                425,
+                469
+              ]
+            ],
+            [
+              [
+                201,
+                355
+              ],
+              [
+                263,
+                357
+              ],
+              [
+                358,
+                383
+              ],
+              [
+                384,
+                381
+              ]
+            ],
+            [
+              [
+                179,
+                257
+              ],
+              [
+                234,
+                256
+              ],
+              [
+                354,
+                289
+              ],
+              [
+                388,
+                291
+              ]
+            ],
+            [
+              [
+                270,
+                332
+              ],
+              [
+                295,
+                316
+              ],
+              [
+                293,
+                134
+              ],
+              [
+                289,
+                118
+              ],
+              [
+                278,
+                110
+              ]
+            ],
+            [
+              [
+                166,
+                203
+              ],
+              [
+                207,
+                170
+              ],
+              [
+                227,
+                143
+              ]
+            ],
+            [
+              [
+                397,
+                245
+              ],
+              [
+                405,
+                226
+              ],
+              [
+                359,
+                165
+              ]
+            ],
+            [
+              [
+                116,
+                62
+              ],
+              [
+                166,
+                43
+              ],
+              [
+                428,
+                129
+              ]
+            ],
+            [
+              [
+                580,
+                641
+              ],
+              [
+                596,
+                620
+              ],
+              [
+                601,
+                601
+              ],
+              [
+                542,
+                489
+              ],
+              [
+                532,
+                455
+              ],
+              [
+                572,
+                453
+              ],
+              [
+                664,
+                468
+              ],
+              [
+                683,
+                473
+              ],
+              [
+                690,
+                482
+              ]
+            ],
+            [
+              [
+                604,
+                550
+              ],
+              [
+                717,
+                573
+              ],
+              [
+                736,
+                571
+              ],
+              [
+                756,
+                557
+              ],
+              [
+                702,
+                448
+              ],
+              [
+                673,
+                409
+              ]
+            ],
+            [
+              [
+                448,
+                363
+              ],
+              [
+                493,
+                362
+              ],
+              [
+                635,
+                389
+              ],
+              [
+                814,
+                412
+              ],
+              [
+                864,
+                412
+              ],
+              [
+                905,
+                400
+              ]
+            ],
+            [
+              [
+                601,
+                356
+              ],
+              [
+                614,
+                352
+              ],
+              [
+                632,
+                334
+              ],
+              [
+                635,
+                307
+              ],
+              [
+                633,
+                23
+              ],
+              [
+                623,
+                -6
+              ],
+              [
+                613,
+                -17
+              ],
+              [
+                582,
+                -8
+              ],
+              [
+                519,
+                26
+              ]
+            ],
+            [
+              [
+                470,
+                303
+              ],
+              [
+                525,
+                261
+              ],
+              [
+                538,
+                242
+              ]
+            ],
+            [
+              [
+                438,
+                87
+              ],
+              [
+                480,
+                91
+              ],
+              [
+                568,
+                162
+              ],
+              [
+                600,
+                197
+              ]
+            ],
+            [
+              [
+                767,
+                315
+              ],
+              [
+                781,
+                286
+              ],
+              [
+                709,
+                217
+              ],
+              [
+                701,
+                219
+              ]
+            ],
+            [
+              [
+                661,
+                226
+              ],
+              [
+                673,
+                207
+              ],
+              [
+                696,
+                188
+              ],
+              [
+                826,
+                103
+              ],
+              [
+                915,
+                94
+              ],
+              [
+                984,
+                98
+              ]
+            ]
+          ]
+        },
+        "fragments": [
+          [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ]
+        ]
+      }
+    ],
+    "gloss": "copy",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 2087,
+      "book_word_count_percent": 1.2602611671197184e-07,
+      "book_word_rank": 55733,
+      "book_char_count": 2,
+      "book_char_count_percent": 1.033570269326397e-08,
+      "book_char_rank": 8426,
+      "top_words": [
+        {
+          "word": "録",
+          "share": 0.5,
+          "trad": "録",
+          "gloss": "Japanese variant of 錄|录[lù]"
+        }
+      ]
+    },
+    "hint": "To carve 釒 a record 录; 录 also provides the pronunciation",
+    "components": [
+      {
+        "type": [
+          "meaning"
+        ],
+        "character": "釒"
+      },
+      {
+        "type": [
+          "sound",
+          "meaning"
+        ],
+        "character": "录"
+      }
+    ],
+    "variants": null,
+    "comments": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed8733d10",
+    "char": "覚",
+    "codepoint": "U+899A",
+    "stroke_count": 12,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "to wake up from sleep",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 3863,
+      "book_word_count_percent": 2.3327210774238006e-07,
+      "book_word_rank": 49675,
+      "book_char_count": 1,
+      "book_char_count_percent": 5.167851346631985e-09,
+      "book_char_rank": 9536,
+      "top_words": [
+        {
+          "word": "覚",
+          "share": 0.5,
+          "trad": "覚",
+          "gloss": "Japanese variant of 覺|觉"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed8733d1d",
+    "char": "覧",
+    "codepoint": "U+89A7",
+    "stroke_count": 16,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "look at",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 416,
+      "book_word_count_percent": 2.5120682583699227e-08,
+      "book_word_rank": 66796,
+      "top_words": [
+        {
+          "word": "覧",
+          "share": 0.5,
+          "trad": "覧",
+          "gloss": "Japanese variant of 覽|览"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed8733d29",
+    "char": "観",
+    "codepoint": "U+89B3",
+    "stroke_count": 18,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "see",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 1293,
+      "book_word_count_percent": 7.807942928058438e-08,
+      "book_word_rank": 59843,
+      "top_words": [
+        {
+          "word": "観",
+          "share": 0.5,
+          "trad": "観",
+          "gloss": "Japanese variant of 觀|观[guān]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed8733da9",
+    "char": "訳",
+    "codepoint": "U+8A33",
+    "stroke_count": 11,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "translate",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 3355,
+      "book_word_count_percent": 2.025958895872858e-07,
+      "book_word_rank": 51131,
+      "top_words": [
+        {
+          "word": "訳",
+          "share": 0.5,
+          "trad": "訳",
+          "gloss": "Japanese variant of 譯|译[yì]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed8733e23",
+    "char": "読",
+    "codepoint": "U+8AAD",
+    "stroke_count": 14,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "read",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 1318,
+      "book_word_count_percent": 7.958908568585476e-08,
+      "book_word_rank": 59666,
+      "top_words": [
+        {
+          "word": "読",
+          "share": 0.5,
+          "trad": "読",
+          "gloss": "Japanese variant of 讀|读"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed8733e97",
+    "char": "謡",
+    "codepoint": "U+8B21",
+    "stroke_count": 17,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "sing",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 588,
+      "book_word_count_percent": 3.550711865195948e-08,
+      "book_word_rank": 65069,
+      "book_char_count": 1,
+      "book_char_count_percent": 5.167851346631985e-09,
+      "book_char_rank": 9400,
+      "top_words": [
+        {
+          "word": "謡",
+          "share": 0.5,
+          "trad": "謡",
+          "gloss": "Japanese variant of 謠|谣"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed8733ee8",
+    "char": "譲",
+    "codepoint": "U+8B72",
+    "stroke_count": 20,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "allow",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 1223,
+      "book_word_count_percent": 7.38523913458273e-08,
+      "book_word_rank": 60267,
+      "top_words": [
+        {
+          "word": "譲",
+          "share": 0.5,
+          "trad": "譲",
+          "gloss": "Japanese variant of 讓|让"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed87338ab",
+    "char": "蔵",
+    "codepoint": "U+8535",
+    "stroke_count": 14,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "hide",
+    "statistics": {
+      "hsk_level": 10,
+      "movie_word_count": 4,
+      "movie_word_count_percent": 1.1923741946853737e-07,
+      "movie_word_rank": 52096,
+      "movie_word_contexts": 1,
+      "movie_word_contexts_percent": 0.00016017940092904052,
+      "book_word_count": 925,
+      "book_word_count_percent": 5.585728699500429e-08,
+      "book_word_rank": 62264,
+      "top_words": [
+        {
+          "word": "蔵",
+          "share": 1,
+          "trad": "蔵",
+          "gloss": "Japanese variant of 藏"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed8733921",
+    "char": "薫",
+    "codepoint": "U+85AB",
+    "stroke_count": 16,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "a medicinal herb",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 647,
+      "book_word_count_percent": 3.906990776839759e-08,
+      "book_word_rank": 64543,
+      "top_words": [
+        {
+          "word": "薫",
+          "share": 0.5,
+          "trad": "薫",
+          "gloss": "Japanese variant of 薰"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed8733922",
+    "char": "薬",
+    "codepoint": "U+85AC",
+    "stroke_count": 16,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "drugs",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 939,
+      "book_word_count_percent": 5.6702694581955704e-08,
+      "book_word_rank": 62178,
+      "top_words": [
+        {
+          "word": "薬",
+          "share": 0.5,
+          "trad": "薬",
+          "gloss": "Japanese variant of 藥|药"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed8733a43",
+    "char": "蛍",
+    "codepoint": "U+86CD",
+    "stroke_count": 11,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "glow-worm",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 152,
+      "book_word_count_percent": 9.178710944043948e-09,
+      "book_word_rank": 70553,
+      "top_words": [
+        {
+          "word": "蛍",
+          "share": 0.5,
+          "trad": "蛍",
+          "gloss": "Japanese variant of 螢|萤"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed8733ac1",
+    "char": "蝋",
+    "codepoint": "U+874B",
+    "stroke_count": 14,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "wax",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 24,
+      "book_word_count_percent": 1.4492701490595707e-09,
+      "book_word_rank": 74688,
+      "top_words": [
+        {
+          "word": "蝋",
+          "share": 0.5,
+          "trad": "蝋",
+          "gloss": "Japanese variant of 蠟|蜡[là]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed8733001",
+    "char": "粋",
+    "codepoint": "U+7C8B",
+    "stroke_count": 10,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "pure",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 269,
+      "book_word_count_percent": 1.6243902920709354e-08,
+      "book_word_rank": 68630,
+      "book_char_count": 35,
+      "book_char_count_percent": 1.808747971321195e-07,
+      "book_char_rank": 6377,
+      "top_words": [
+        {
+          "word": "粋",
+          "share": 0.5,
+          "trad": "粋",
+          "gloss": "Japanese variant of 粹"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed8733011",
+    "char": "粛",
+    "codepoint": "U+7C9B",
+    "stroke_count": 11,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "pay respects",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 80,
+      "book_word_count_percent": 4.830900496865235e-09,
+      "book_word_rank": 72284,
+      "book_char_count": 2,
+      "book_char_count_percent": 1.033570269326397e-08,
+      "book_char_rank": 8773,
+      "top_words": [
+        {
+          "word": "粛",
+          "share": 0.5,
+          "trad": "粛",
+          "gloss": "Japanese variant of 肅|肃"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed87330c2",
+    "char": "経",
+    "codepoint": "U+7D4C",
+    "stroke_count": 11,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "classic works",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 1669,
+      "book_word_count_percent": 1.0078466161585097e-07,
+      "book_word_rank": 57686,
+      "top_words": [
+        {
+          "word": "経",
+          "share": 0.5,
+          "trad": "経",
+          "gloss": "Japanese variant of 經|经"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed87330eb",
+    "char": "絵",
+    "codepoint": "U+7D75",
+    "stroke_count": 12,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "draw",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 1185,
+      "book_word_count_percent": 7.15577136098163e-08,
+      "book_word_rank": 60527,
+      "top_words": [
+        {
+          "word": "絵",
+          "share": 0.5,
+          "trad": "絵",
+          "gloss": "Japanese variant of 繪|绘"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed873310f",
+    "char": "継",
+    "codepoint": "U+7D99",
+    "stroke_count": 13,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "continue",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 47,
+      "book_word_count_percent": 2.838154041908326e-09,
+      "book_word_rank": 73489,
+      "top_words": [
+        {
+          "word": "継",
+          "share": 0.5,
+          "trad": "継",
+          "gloss": "Japanese variant of 繼|继"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed8733110",
+    "char": "続",
+    "codepoint": "U+7D9A",
+    "stroke_count": 13,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "continue",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 2882,
+      "book_word_count_percent": 1.7403319039957012e-07,
+      "book_word_rank": 52660,
+      "top_words": [
+        {
+          "word": "続",
+          "share": 0.5,
+          "trad": "続",
+          "gloss": "Japanese variant of 續|续"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed8733145",
+    "char": "総",
+    "codepoint": "U+7DCF",
+    "stroke_count": 14,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "collect",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 1470,
+      "book_word_count_percent": 8.87677966298987e-08,
+      "book_word_rank": 58769,
+      "top_words": [
+        {
+          "word": "総",
+          "share": 0.5,
+          "trad": "総",
+          "gloss": "Japanese variant of 總|总"
+        }
+      ]
+    },
+    "simp_variants": [
+      "𰬥"
+    ],
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed8733147",
+    "char": "緑",
+    "codepoint": "U+7DD1",
+    "stroke_count": 14,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "green",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 1499,
+      "book_word_count_percent": 9.051899806001235e-08,
+      "book_word_rank": 58590,
+      "top_words": [
+        {
+          "word": "緑",
+          "share": 0.5,
+          "trad": "緑",
+          "gloss": "Japanese variant of 綠|绿"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed8733177",
+    "char": "縁",
+    "codepoint": "U+7E01",
+    "stroke_count": 15,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "hem",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 394,
+      "book_word_count_percent": 2.3792184947061286e-08,
+      "book_word_rank": 67053,
+      "book_char_count": 1,
+      "book_char_count_percent": 5.167851346631985e-09,
+      "book_char_rank": 8870,
+      "top_words": [
+        {
+          "word": "縁",
+          "share": 0.5,
+          "trad": "縁",
+          "gloss": "Japanese variant of 緣|缘"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed873317a",
+    "char": "縄",
+    "codepoint": "U+7E04",
+    "stroke_count": 15,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "rope",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 413,
+      "book_word_count_percent": 2.4939523815066778e-08,
+      "book_word_rank": 66829,
+      "top_words": [
+        {
+          "word": "縄",
+          "share": 0.5,
+          "trad": "縄",
+          "gloss": "Japanese variant of 繩|绳"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523afede54193ed87331c0",
+    "char": "繊",
+    "codepoint": "U+7E4A",
+    "stroke_count": 17,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "fine",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 65,
+      "book_word_count_percent": 3.925106653703004e-09,
+      "book_word_rank": 72751,
+      "top_words": [
+        {
+          "word": "繊",
+          "share": 0.5,
+          "trad": "繊",
+          "gloss": "Japanese variant of 纖|纤"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed8734bcb",
+    "char": "顕",
+    "codepoint": "U+9855",
+    "stroke_count": 18,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "manifest",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 154,
+      "book_word_count_percent": 9.299483456465578e-09,
+      "book_word_rank": 70527,
+      "book_char_count": 1,
+      "book_char_count_percent": 5.167851346631985e-09,
+      "book_char_rank": 9635,
+      "top_words": [
+        {
+          "word": "顕",
+          "share": 0.5,
+          "trad": "顕",
+          "gloss": "Japanese variant of 顯|显"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed8734d3a",
+    "char": "駄",
+    "codepoint": "U+99C4",
+    "stroke_count": 14,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "a horse load",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 616,
+      "book_word_count_percent": 3.7197933825862313e-08,
+      "book_word_rank": 64835,
+      "top_words": [
+        {
+          "word": "駄",
+          "share": 0.5,
+          "trad": "駄",
+          "gloss": "Japanese variant of 馱|驮"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed8734d3b",
+    "char": "駅",
+    "codepoint": "U+99C5",
+    "stroke_count": 14,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "relay station",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 1877,
+      "book_word_count_percent": 1.1334500290770059e-07,
+      "book_word_rank": 56650,
+      "top_words": [
+        {
+          "word": "駅",
+          "share": 0.5,
+          "trad": "駅",
+          "gloss": "Japanese variant of 驛|驿[yì]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed8734d88",
+    "char": "騒",
+    "codepoint": "U+9A12",
+    "stroke_count": 18,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "harass",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 31011,
+      "book_word_count_percent": 1.8726381913535977e-06,
+      "book_word_rank": 24096,
+      "top_words": [
+        {
+          "word": "騒",
+          "share": 0.5,
+          "trad": "騒",
+          "gloss": "Japanese variant of 騷|骚"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed8734d89",
+    "char": "験",
+    "codepoint": "U+9A13",
+    "stroke_count": 18,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "test",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 1463,
+      "book_word_count_percent": 8.834509283642299e-08,
+      "book_word_rank": 58816,
+      "top_words": [
+        {
+          "word": "験",
+          "share": 0.5,
+          "trad": "験",
+          "gloss": "Japanese variant of 驗|验"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed8734e60",
+    "char": "髪",
+    "codepoint": "U+9AEA",
+    "stroke_count": 14,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "hair",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 2272,
+      "book_word_count_percent": 1.371975741109727e-07,
+      "book_word_rank": 54976,
+      "book_char_count": 2,
+      "book_char_count_percent": 1.033570269326397e-08,
+      "book_char_rank": 8515,
+      "top_words": [
+        {
+          "word": "髪",
+          "share": 0.5,
+          "trad": "髪",
+          "gloss": "Japanese variant of 髮|发"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed8734928",
+    "char": "閲",
+    "codepoint": "U+95B2",
+    "stroke_count": 15,
+    "sources": [
+      "unicode",
+      "baxter-sagart"
+    ],
+    "gloss": "examine",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 475,
+      "book_word_count_percent": 2.8683471700137338e-08,
+      "book_word_rank": 66171,
+      "top_words": [
+        {
+          "word": "閲",
+          "share": 0.5,
+          "trad": "閲",
+          "gloss": "Japanese variant of 閱|阅"
+        }
+      ]
+    },
+    "old_pronunciations": [
+      {
+        "pinyin": "yuè",
+        "MC": "ywet",
+        "OC": "*lot ",
+        "gloss": "count, sum up",
+        "source": "baxter-sagart"
+      },
+      {
+        "pinyin": "yuè",
+        "MC": "ywet",
+        "OC": "*lot ",
+        "gloss": "inspect",
+        "source": "baxter-sagart"
+      }
+    ],
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed873494e",
+    "char": "闘",
+    "codepoint": "U+95D8",
+    "stroke_count": 18,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "struggle",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 727,
+      "book_word_count_percent": 4.390080826526283e-08,
+      "book_word_rank": 63812,
+      "top_words": [
+        {
+          "word": "闘",
+          "share": 0.5,
+          "trad": "闘",
+          "gloss": "Japanese variant of 鬥|斗"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed87349db",
+    "char": "陥",
+    "codepoint": "U+9665",
+    "stroke_count": 9,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "submerge",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 38,
+      "book_word_count_percent": 2.294677736010987e-09,
+      "book_word_rank": 73931,
+      "top_words": [
+        {
+          "word": "陥",
+          "share": 0.5,
+          "trad": "陥",
+          "gloss": "Japanese variant of 陷[xiàn]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed87349f0",
+    "char": "険",
+    "codepoint": "U+967A",
+    "stroke_count": 10,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "narrow pass",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 476,
+      "book_word_count_percent": 2.874385795634815e-08,
+      "book_word_rank": 66160,
+      "top_words": [
+        {
+          "word": "険",
+          "share": 0.5,
+          "trad": "険",
+          "gloss": "Japanese variant of 險|险"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed8734a16",
+    "char": "隠",
+    "codepoint": "U+96A0",
+    "stroke_count": 13,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "to hide",
+    "statistics": {
+      "hsk_level": 10,
+      "movie_word_count": 24,
+      "movie_word_count_percent": 7.154245168112242e-07,
+      "movie_word_rank": 24621,
+      "movie_word_contexts": 1,
+      "movie_word_contexts_percent": 0.00016017940092904052,
+      "book_word_count": 1406,
+      "book_word_count_percent": 8.490307623240652e-08,
+      "book_word_rank": 59145,
+      "top_words": [
+        {
+          "word": "隠",
+          "share": 1,
+          "trad": "隠",
+          "gloss": "Japanese variant of 隱|隐[yǐn]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed8734a47",
+    "char": "雑",
+    "codepoint": "U+96D1",
+    "stroke_count": 14,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "mixed",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 971,
+      "book_word_count_percent": 5.8635054780701796e-08,
+      "book_word_rank": 61933,
+      "book_char_count": 2,
+      "book_char_count_percent": 1.033570269326397e-08,
+      "book_char_rank": 8826,
+      "top_words": [
+        {
+          "word": "雑",
+          "share": 0.5,
+          "trad": "雑",
+          "gloss": "Japanese variant of 雜|杂"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed8734a80",
+    "char": "霊",
+    "codepoint": "U+970A",
+    "stroke_count": 15,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "spirit",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 1729,
+      "book_word_count_percent": 1.0440783698849991e-07,
+      "book_word_rank": 57384,
+      "top_words": [
+        {
+          "word": "霊",
+          "share": 0.5,
+          "trad": "霊",
+          "gloss": "Japanese variant of 靈|灵"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed8734258",
+    "char": "転",
+    "codepoint": "U+8EE2",
+    "stroke_count": 11,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "shift",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 1681,
+      "book_word_count_percent": 1.0150929669038077e-07,
+      "book_word_rank": 57618,
+      "book_char_count": 3,
+      "book_char_count_percent": 1.5503554039895958e-08,
+      "book_char_rank": 8084,
+      "top_words": [
+        {
+          "word": "転",
+          "share": 0.5,
+          "trad": "転",
+          "gloss": "Japanese variant of 轉|转"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed8734273",
+    "char": "軽",
+    "codepoint": "U+8EFD",
+    "stroke_count": 12,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "light",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 712,
+      "book_word_count_percent": 4.29950144221006e-08,
+      "book_word_rank": 63978,
+      "top_words": [
+        {
+          "word": "軽",
+          "share": 0.5,
+          "trad": "軽",
+          "gloss": "Japanese variant of 輕|轻"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed8734330",
+    "char": "辺",
+    "codepoint": "U+8FBA",
+    "stroke_count": 5,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "edge",
+    "statistics": {
+      "hsk_level": 10,
+      "movie_word_count": 2,
+      "movie_word_count_percent": 5.961870973426868e-08,
+      "movie_word_rank": 59151,
+      "movie_word_contexts": 2,
+      "movie_word_contexts_percent": 0.00032035880185808104,
+      "book_word_count": 2437,
+      "book_word_count_percent": 1.4716130638575723e-07,
+      "book_word_rank": 54299,
+      "top_words": [
+        {
+          "word": "辺",
+          "share": 1,
+          "trad": "辺",
+          "gloss": "Japanese variant of 邊|边[biān]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed8735084",
+    "char": "鴎",
+    "codepoint": "U+9D0E",
+    "stroke_count": 15,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "seagull",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 21,
+      "book_word_count_percent": 1.2681113804271245e-09,
+      "book_word_rank": 74905,
+      "top_words": [
+        {
+          "word": "鴎",
+          "share": 0.5,
+          "trad": "鴎",
+          "gloss": "Japanese variant of 鷗|鸥"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed8735105",
+    "char": "鶏",
+    "codepoint": "U+9D8F",
+    "stroke_count": 19,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "chicken",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 534,
+      "book_word_count_percent": 3.224626081657545e-08,
+      "book_word_rank": 65599,
+      "top_words": [
+        {
+          "word": "鶏",
+          "share": 0.5,
+          "trad": "鶏",
+          "gloss": "Japanese variant of 雞|鸡"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed87351ee",
+    "char": "鹸",
+    "codepoint": "U+9E78",
+    "stroke_count": 19,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "alkaline",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 34,
+      "book_word_count_percent": 2.0531327111677253e-09,
+      "book_word_rank": 74153,
+      "top_words": [
+        {
+          "word": "鹸",
+          "share": 0.5,
+          "trad": "鹸",
+          "gloss": "Japanese variant of 鹼|碱[jiǎn]"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed8735248",
+    "char": "黒",
+    "codepoint": "U+9ED2",
+    "stroke_count": 11,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "black",
+    "statistics": {
+      "hsk_level": 10,
+      "movie_word_count": 4,
+      "movie_word_count_percent": 1.1923741946853737e-07,
+      "movie_word_rank": 51049,
+      "movie_word_contexts": 4,
+      "movie_word_contexts_percent": 0.0006407176037161621,
+      "book_word_count": 9807,
+      "book_word_count_percent": 5.922080146594671e-07,
+      "book_word_rank": 38759,
+      "book_char_count": 36,
+      "book_char_count_percent": 1.8604264847875148e-07,
+      "book_char_rank": 6367,
+      "top_words": [
+        {
+          "word": "黒",
+          "share": 1,
+          "trad": "黒",
+          "gloss": "Japanese variant of 黑"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed873524f",
+    "char": "黙",
+    "codepoint": "U+9ED9",
+    "stroke_count": 15,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "silent",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 807,
+      "book_word_count_percent": 4.873170876212807e-08,
+      "book_word_rank": 63155,
+      "top_words": [
+        {
+          "word": "黙",
+          "share": 0.5,
+          "trad": "黙",
+          "gloss": "Japanese variant of 默"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  },
+  {
+    "_id": "5f523affde54193ed87352d8",
+    "char": "齢",
+    "codepoint": "U+9F62",
+    "stroke_count": 17,
+    "sources": [
+      "unicode"
+    ],
+    "gloss": "age",
+    "statistics": {
+      "hsk_level": 10,
+      "book_word_count": 561,
+      "book_word_count_percent": 3.387668973426747e-08,
+      "book_word_rank": 65322,
+      "book_char_count": 2,
+      "book_char_count_percent": 1.033570269326397e-08,
+      "book_char_rank": 8560,
+      "top_words": [
+        {
+          "word": "齢",
+          "share": 0.5,
+          "trad": "齢",
+          "gloss": "Japanese variant of 齡|龄"
+        }
+      ]
+    },
+    "images": null,
+    "variants": null,
+    "comments": null,
+    "components": null,
+    "data": null,
+    "old_pronunciations": null,
+    "pinyin_frequencies": null
+  }
+]
