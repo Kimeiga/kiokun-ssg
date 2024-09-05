@@ -1,5 +1,6 @@
 node_modules
 
+
 # Output
 .output
 .vercel
@@ -36,3 +37,6 @@ data/zh/char_dict/dict.json
 data/zh/char_dict/dict2.json
 data/zh/word_dict/dict.json
 data/zh/word_dict/dictionary_word_2024-03-19.jsonl
+
+# Python
+__pycache__/
