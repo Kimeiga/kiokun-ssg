@@ -1,12 +1,12 @@
 # ok i will start from scratch and do it all in one file like we did before so thata I can ensure there won't be an out of memory exception
 
+import argparse
 import json
-import os
-import gzip
-import sys
 from collections import defaultdict
 from pathlib import Path
 import lzma
+
+import jaconv
 
 # Get the directory of the script
 script_dir = Path(__file__).resolve().parent
@@ -130,7 +130,15 @@ for index, entry in enumerate(jmdict_data["words"]):
                             if kana["appliesToKanji"] != ["*"]
                             else {}
                         ),
-                        **({"r": romkan.to_roma(kana["text"]) if kana["text"] else {}}),
+                        **(
+                            {
+                                "r": (
+                                    jaconv.kata2alphabet(kana["text"])
+                                    if kana["text"]
+                                    else {}
+                                )
+                            }
+                        ),
                     }
                     for kana in entry["kana"]
                 ]
