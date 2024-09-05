@@ -9,7 +9,6 @@ from data.jp.jmnedict import load_jmnedict, JMnedictWord
 from data.zh.char_dict import load_chinese_char_dict
 from data.zh.word_dict import load_chinese_word_dict
 
-
 # Add argument parsing
 parser = argparse.ArgumentParser(
     description="Process dictionary data with build mode options."
@@ -120,11 +119,11 @@ def get_j2ch_word(key, index):
 
 print("welcome")
 
-# Get the directory of the script
-script_dir = Path(__file__).resolve().parent
-output_dir = script_dir.parent / "dictionary"
+# # Get the directory of the script
+# script_dir = Path(__file__).resolve().parent
+# output_dir = script_dir.parent / "dictionary"
 
-print(f"Output directory: {output_dir}")
+# print(f"Output directory: {output_dir}")
 
 data = defaultdict(lambda: defaultdict(list))
 word_index = defaultdict(lambda: defaultdict(list))
@@ -286,7 +285,6 @@ for index, entry in enumerate(jmnedict.words):
                 data[zh_key]["v_j_n"].append(index)
 
 
-# Ensure the output directory exists
 output_dir.mkdir(parents=True, exist_ok=True)
 
 print("Writing JSON files...")
