@@ -460,16 +460,16 @@ print(
     f"Processed {len(jmdict_data['words'])} JMdict entries in {time.time() - start_time:.2f} seconds"
 )
 
-# Process JMnedict entries
-print("Processing JMnedict entries...")
-start_time = time.time()
-for index, entry in enumerate(jmnedict_data["words"]):
-    if index % 1000 == 0:
-        print(f"Processed {index} JMnedict entries")
-    process_jmnedict_entry(entry, index)
-print(
-    f"Processed {len(jmnedict_data['words'])} JMnedict entries in {time.time() - start_time:.2f} seconds"
-)
+# # Process JMnedict entries
+# print("Processing JMnedict entries...")
+# start_time = time.time()
+# for index, entry in enumerate(jmnedict_data["words"]):
+#     if index % 1000 == 0:
+#         print(f"Processed {index} JMnedict entries")
+#     process_jmnedict_entry(entry, index)
+# print(
+#     f"Processed {len(jmnedict_data['words'])} JMnedict entries in {time.time() - start_time:.2f} seconds"
+# )
 
 # Add this after processing all entries and before writing JSON files
 print("Updating entries with Japanese-Chinese mapping...")
@@ -493,34 +493,34 @@ for jp_char, ch_chars in japanese_chinese_map.items():
 print(f"Updated {len(japanese_chinese_map)} entries with Japanese-Chinese mapping.")
 
 
-# # Ensure the output directory exists
-# output_dir.mkdir(parents=True, exist_ok=True)
+# Ensure the output directory exists
+output_dir.mkdir(parents=True, exist_ok=True)
 
-# print("Writing compressed JSON files...")
-# start_time = time.time()
-# total_processed = 0
+print("Writing compressed JSON files...")
+start_time = time.time()
+total_processed = 0
 
-# for key, entries_list in all_entries.items():
-#     if total_processed % 1000 == 0:
-#         print(f"Wrote {total_processed} compressed JSON files")
+for key, entries_list in all_entries.items():
+    if total_processed % 1000 == 0:
+        print(f"Wrote {total_processed} compressed JSON files")
 
-#     file_path = output_dir / f"{key}.json.gz"
-#     with gzip.open(file_path, "wt", encoding="utf-8") as f:
-#         json.dump(entries_list, f, ensure_ascii=False, separators=(",", ":"))
+    file_path = output_dir / f"{key}.json.gz"
+    with gzip.open(file_path, "wt", encoding="utf-8") as f:
+        json.dump(entries_list, f, ensure_ascii=False, separators=(",", ":"))
 
-#     total_processed += 1
+    total_processed += 1
 
-# print(f"Total processed entries: {total_processed}")
-# print(f"Compressed dictionary files have been written to: {output_dir}")
-# print(f"Total writing time: {time.time() - start_time:.2f} seconds")
+print(f"Total processed entries: {total_processed}")
+print(f"Compressed dictionary files have been written to: {output_dir}")
+print(f"Total writing time: {time.time() - start_time:.2f} seconds")
 
-# # Create a manifest file for Vercel's Build Output API
-# manifest = {
-#     "version": 2,
-#     "routes": [{"src": "/dictionary/(.*)", "dest": "/dictionary/$1"}],
-#     "builds": [{"src": "dictionary/*.json.gz", "use": "@vercel/static"}],
-# }
-# with open(output_dir / "manifest.json", "w", encoding="utf-8") as f:
-#     json.dump(manifest, f, indent=2)
+# Create a manifest file for Vercel's Build Output API
+manifest = {
+    "version": 2,
+    "routes": [{"src": "/dictionary/(.*)", "dest": "/dictionary/$1"}],
+    "builds": [{"src": "dictionary/*.json.gz", "use": "@vercel/static"}],
+}
+with open(output_dir / "manifest.json", "w", encoding="utf-8") as f:
+    json.dump(manifest, f, indent=2)
 
-# print("Created manifest file for Vercel's Build Output API")
+print("Created manifest file for Vercel's Build Output API")
