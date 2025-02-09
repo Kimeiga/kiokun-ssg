@@ -2,7 +2,7 @@ import { error } from '@sveltejs/kit';
 
 export async function load({ params, fetch }) {
 	const { word } = params;
-	const filename = word.endsWith('.json') ? word : `${word}.json`;
+	const filename = word.endsWith('.json.gz') ? word : `${word}.json.gz`;
 	console.log(`Attempting to fetch /dictionary/${filename}`);
 	try {
 		const response = await fetch(`/dictionary/${filename}`);

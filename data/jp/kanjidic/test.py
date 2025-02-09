@@ -1,4 +1,4 @@
-from .types import load_kanjidic
+from .type import load_kanjidic
 
 
 def test_load_kanjidic():

@@ -7,8 +7,8 @@ from pathlib import Path
 
 import jaconv
 
-from .jp.kanjidic.types import load_kanjidic
-from .jp.jmdict.types import load_jmdict
+from .jp.kanjidic.type import load_kanjidic
+from .jp.jmdict.type import load_jmdict
 from .utils import is_hanzi
 
 # Get the project root directory
