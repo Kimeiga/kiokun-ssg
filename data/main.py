@@ -15,17 +15,24 @@ from functools import partial
 def merge_dictionaries(dict_list):
     merged = defaultdict(lambda: defaultdict(list))
     for d in dict_list:
-        for key, value in d.items():
-            for entry_type, entries in value.items():
-                merged[key][entry_type].extend(entries)
+        if d:  # Check if dictionary is not None
+            for key, value in d.items():
+                for entry_type, entries in value.items():
+                    merged[key][entry_type].extend(entries)
     return merged
 
 
 def process_in_parallel(data, chunk_size, process_func):
     chunks = [data[i : i + chunk_size] for i in range(0, len(data), chunk_size)]
-    with ProcessPoolExecutor() as executor:
-        results = list(executor.map(process_func, chunks))
-    return merge_dictionaries(results)
+    # Reduce max workers to limit memory usage
+    with ProcessPoolExecutor(max_workers=2) as executor:
+        # Process chunks in smaller batches
+        batch_size = 4
+        for i in range(0, len(chunks), batch_size):
+            batch = chunks[i : i + batch_size]
+            results = list(executor.map(process_func, batch))
+            for r in results:
+                yield r
 
 
 def load_json(file_path):
@@ -480,17 +487,17 @@ if __name__ == "__main__":
     chunk_size = 10000  # Adjust this based on your data size and available memory
 
     # Process Chinese characters
-    char_results = process_in_parallel(
-        char_dict_data, chunk_size, process_entries_chunk
+    results = merge_dictionaries(
+        process_in_parallel(char_dict_data, chunk_size, process_entries_chunk)
     )
-    all_entries.update(char_results)
+    all_entries.update(results)
     print(f"Processed Chinese characters in {time.time() - start_time:.2f} seconds")
 
     # Process Chinese words
-    word_results = process_in_parallel(
-        word_dict_data, chunk_size, process_chinese_word_chunk
+    results = merge_dictionaries(
+        process_in_parallel(word_dict_data, chunk_size, process_chinese_word_chunk)
     )
-    all_entries.update(word_results)
+    all_entries.update(results)
     print(f"Processed Chinese words in {time.time() - start_time:.2f} seconds")
 
     # Process Kanjidic entries
